@@ -21,6 +21,9 @@ main:
   - title: "Professional Activities"
     url: /professional-activities/ 
 
+  - title: "Grants"
+    url: /grant/
+
   - title: "Honours/Awards"
     url: /honours-awards/   
     
