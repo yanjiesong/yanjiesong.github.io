@@ -8,7 +8,7 @@ ul li { padding: 5px 0px; }
 
 **Editor**
 <ol>
-<li> Guest Editor, Application of Intelligent Planning Algorithms in Future Generation Satellite Systems, Frontiers in Space Technologies <a herf="https://www.frontiersin.org/research-topics/49193/"> [cite]</a> </li>
+<li> Guest Editor, Application of Intelligent Planning Algorithms in Future Generation Satellite Systems, Frontiers in Space Technologies <a herf="https://www.ammsamath.com/committee/"> [cite]</a> </li>
 <li> Editorial Board Member, Computer Engineering</li>
 </ol>
 
