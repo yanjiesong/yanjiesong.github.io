@@ -20,13 +20,15 @@ ul li { padding: 5px 0px; }
 
 **Editor**
 <ol>
-<li>Expert Systems With Applications, 2022 --- now</li>
+<li> Guest Editor, Frontiers in Space Technologies, Application of Intelligent Planning Algorithms in Future Generation Satellite Systems </li>
+<li> Editorial Board Member, Computer Engineering</li>
 </ol>
 
 
 **Conference Organisation** 
 <ol>
 <li> Editor, <a href="https://www.ammsamath.com/committee/"> </a> 2023 3rd International Conference on Applied Mathematics, Modelling and Statistics Application (AMMSA 2023) </li>	
+<li>  Publicity Chair, International Conference on Computational Intelligence and Communication System, 2023</li>
 </ol>
 
 
@@ -74,5 +76,5 @@ ul li { padding: 5px 0px; }
 
 **Professional Membership**
 <ol>
-<li> IEEE Student Member, 2017 – Present </li>
+<li> IEEE Student Member, 2017 – 2023 </li>
 </ol>
