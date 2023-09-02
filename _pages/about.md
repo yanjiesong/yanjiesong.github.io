@@ -12,12 +12,12 @@ redirect_from:
 
 Research Interests
 =====
-• Combinatorial optimization
-• Single optimization, multitask optimisation, multi-objective optimisation
-• Artificial intelligence, machine learning
-• Evolutionary computation
-• Reinforcement learning
-• Multi-population, surrogate, genetic operators
+• Combinatorial optimization \
+• Single optimization, multitask optimisation, multi-objective optimisation \
+• Artificial intelligence, machine learning \
+• Evolutionary computation \
+• Reinforcement learning \
+• Multi-population, surrogate, genetic operators \ 
 
 Biography
 ======
