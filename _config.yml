@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yanjie Song"
-  avatar           : "science.jpg"
+  avatar           : "https://github.com/yanjiesong/yanjiesong.github.io/blob/master/science.jpg"
   bio              : "Parctice makes perfect."
   location         : "Tianjin, China"
   employer         :
