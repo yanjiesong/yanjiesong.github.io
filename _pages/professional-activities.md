@@ -67,24 +67,12 @@ ul li { padding: 5px 0px; }
 
 **Program Committee Member for International Conferences**
 <ol>
-<li> The Genetic and Evolutionary Computation Conference (GECCO), 2021, 2022 </li>
-<li> IEEE Congress on Evolutionary Computation (CEC), 2020, 2021, 2022 </li>
-<li> The International Joint Conference on Neural Networks (IJCNN), 2022 </li>
-<li> The Leading European Event on Bio‑Inspired Computation (Evo*), 2022 </li>
-<li> IEEE Symposium Series on Computational Intelligence (SSCI), 2019, 2020, 2021, 2022 </li>
-<li> The International Conference on Swarm Intelligence (ICSI), 2022 </li>
-<li> The Australasian Joint Conference on Artificial Intelligence (AJCAI), 2018, 2021, 2022 </li>
-<li> Heterodox Methods for Interpretable and Efficient Artificial Intelligence (HMIEAI2022), 2022 </li>
-<li> The International Conference on Machine Learning and Intelligent Systems (MLIS), 2021 </li>
-<li> The International Symposium on Automation, Information and Computing (ISAIC), 2021 </li>
+<li>IEEE International Conference in Data Mining (ICDM), 2022 </li>
+<li>IEEE Congress on Evolutionary Computation (CEC), 2023 </li>
+<li>International Workshop on the Bees Algorithm and its Applications (BAA), 2023 </li>
 </ol>
 
 **Professional Membership**
 <ol>
-<li> ACM Special Interest Group on Genetic and Evolutionary Computation (SIGEVO) Member, 2019 – Present </li>
-<li> IEEE Women in Engineering Member, 2020 - Present </li>
-<li> IEEE Young Professionals, 2019 - Present </li>
-<li> IEEE Member, 2019 – Present </li>
-<li> IEEE Computational Intelligence Society (CIS) Member, 2019 – Present </li>
-<li> AI Researchers Association Member, 2021 - Present </li>
+<li> IEEE Student Member, 2017 – Present </li>
 </ol>
