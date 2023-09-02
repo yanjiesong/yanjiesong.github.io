@@ -6,4 +6,4 @@ author_profile: true
 ---
 
 ---
-To get the BibTex of the full papers, please download from [here](https://github.com/fangfang-zhang/fangfang-zhang.github.io/blob/master/files/mybib.bib), or ask me via fangfang.zhang@ecs.vuw.ac.nz.
+To get the BibTex of the full papers, please download from [here](https://github.com/yanjiesong/yanjiesong.github.io/blob/master/files/mybib.bib), or ask me via yanjiesong96@gmail.com.
