@@ -8,7 +8,7 @@ ul li { padding: 5px 0px; }
 
 **Editor**
 <ol>
-<li> Guest Editor, <a herf="https://www.frontiersin.org/research-topics/49193/application-of-intelligent-planning-algorithms-in-future-generation-satellite-systems?utm_source=F-RTM&utm_medium=TED1&utm_campaign=PRD_TED1_T1_RT-TITLE">Frontiers in Space Technologies, Application of Intelligent Planning Algorithms in Future Generation Satellite Systems </a> </li>
+<li> Guest Editor, <a herf="https://www.frontiersin.org/research-topics/49193/application-of-intelligent-planning-algorithms-in-future-generation-satellite-systems"> Frontiers in Space Technologies, Application of Intelligent Planning Algorithms in Future Generation Satellite Systems </a> </li>
 <li> Editorial Board Member, Computer Engineering</li>
 </ol>
 
