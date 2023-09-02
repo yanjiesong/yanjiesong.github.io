@@ -9,7 +9,7 @@ ul li { padding: 5px 0px; }
 **Editor**
 <ol>
 <li> Editorial Board Member, Computer Engineering</li>
-<li> Guest Editor, Application of Intelligent Planning Algorithms in Future Generation Satellite Systems, Frontiers in Space Technologies (https://www.frontiersin.org/research-topics/49193/application-of-intelligent-planning-algorithms-in-future-generation-satellite-systems) </li>
+<li> Guest Editor, Application of Intelligent Planning Algorithms in Future Generation Satellite Systems, Frontiers in Space Technologies [cite](https://www.frontiersin.org/research-topics/49193/application-of-intelligent-planning-algorithms-in-future-generation-satellite-systems) </li>
 
 </ol>
 
