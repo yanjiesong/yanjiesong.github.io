@@ -16,8 +16,8 @@ Research Interests
 • Single optimization, multitask optimisation, multi-objective optimisation \
 • Artificial intelligence, machine learning \
 • Evolutionary computation \
-• Reinforcement learning \
-• Multi-population, surrogate, genetic operators \ 
+• Reinforcement learning, transfer learning, meta-learning \
+• Multi-population, surrogate, genetic operators 
 
 Biography
 ======
