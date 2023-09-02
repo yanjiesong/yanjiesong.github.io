@@ -8,6 +8,11 @@ author_profile: true
 ---
 To get the BibTex of the full papers, please download from [here](https://github.com/yanjiesong/yanjiesong.github.io/blob/master/files/mybib.bib), or ask me via yanjiesong96@gmail.com.
 
+**Working Papers**
+<ol>
+
+</ol>
+
 **Journal Articles**
 <ol>
 
@@ -19,7 +24,16 @@ To get the BibTex of the full papers, please download from [here](https://github
 
 </ol>
 
-**Conference Chapter**
+**Conference Papers**
 <ol>
+  
+</ol>
+
+**Patents**
+
+<ol>
+  
+</ol>
+
 
 </ol>
