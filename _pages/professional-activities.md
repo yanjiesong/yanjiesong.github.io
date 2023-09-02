@@ -26,7 +26,7 @@ ul li { padding: 5px 0px; }
 
 **Conference Organisation** 
 <ol>
-<li> Editor, <a href="https://www.ammsamath.com/committee/"> </a>, 2023 3rd International Conference on Applied Mathematics, Modelling and Statistics Application (AMMSA 2023) </li>	
+<li> Editor, <a href="https://www.ammsamath.com/committee/"> </a> 2023 3rd International Conference on Applied Mathematics, Modelling and Statistics Application (AMMSA 2023) </li>	
 </ol>
 
 
