@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# National University of Defense Technology, \\
-# National University of Defense Technology, \\
-# Tianjin University, \\
+#National University of Defense Technology, \\
+#National University of Defense Technology, \\
+#Tianjin University, \\
 
 
 A data-driven personal website
