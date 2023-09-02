@@ -10,7 +10,6 @@ To get the BibTex of the full papers, please download from [here](https://github
 
 **Working Papers**
 <ol>
-
 <li>Multi-Objective Flexible Job Shop Scheduling via Preference-Conditioned Graph Reinforcement Learning </li>
 <li>Reinforcement Learning-assisted Evolutionary Algorithm: A Survey and Research Opportunities 	</li>
 <li>Reinforcement Learning-assisted Evolutionary Algorithm: A Survey and Research Opportunities </li>
@@ -53,7 +52,7 @@ Chen, M., Wen, J., <b>Song, Y. J.</b>, Xing, L. N., & Chen, Y. W. (2021). A popu
 <li><b>Song, Y. J.</b>, Zhang, Z. S., Song, B. Y., & Chen, Y. W. (2019). Improved genetic algorithm with local search for satellite range scheduling system and its application in environmental monitoring. Sustainable Computing: Informatics and Systems, 21, 19-27.</li>
 <li>Yao, F., <b>Song, Y. J.*</b>, Zhang, Z. S., Xing, L. N., Ma, X., & Li, X. J. (2019). Multi-mobile robots and multi-trips feeding scheduling problem in smart manufacturing system: An improved hybrid genetic algorithm. International Journal of Advanced Robotic Systems, 16(4), 1729881419868126.</li>
 <li>Wang, Q., Luo, H., Xiong, J., <b>Song, Y.*</b>, & Zhang, Z. (2019). Evolutionary algorithm for aerospace shell product digital production line scheduling problem. Symmetry, 11(7), 849.</li>
-<li><b>Song, Y. J.</b>, Song, B. Y., Zhang, Z. S., & Chen, Y. W. (2018). The satellite downlink replanning problem: A BP neural network and hybrid algorithm approach for IoT Internet connection. IEEE Access, 6, 39797-39806.
+<li><b>Song, Y. J.</b>, Song, B. Y., Zhang, Z. S., & Chen, Y. W. (2018). The satellite downlink replanning problem: A BP neural network and hybrid algorithm approach for IoT Internet connection. IEEE Access, 6, 39797-39806.</li>
 <li><b>Song, Y.</b>, Huang, D., Zhou, Z., & Chen, Y. (2018). An emergency task autonomous planning method of agile imaging satellite. EURASIP Journal on Image and Video Processing, 2018(1), 1-11.</li>
 </ol>
 
