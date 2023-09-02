@@ -33,6 +33,7 @@ Prof. Ling Wang, Tsinghua University, China \
 Prof. Rui Wang, National University of Defense Technology, China \
 Prof. Ke Tang, Southern University of Science and Technology, China \
 Dr. Xinwei Wang, Queen Mary University of London, UK \
-Prof. Yi Mei, Victoria University of Wellington \
-Dr. Fangfang Zhang, Victoria University of Wellington \
+Prof. Yi Mei, Victoria University of Wellington, New Zealand \
+Dr. Fangfang Zhang, Victoria University of Wellington, New Zealand \
+
 
