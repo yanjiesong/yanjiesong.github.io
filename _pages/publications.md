@@ -65,14 +65,16 @@ Chen, M., Wen, J., <b>Song, Y. J.</b>, Xing, L. N., & Chen, Y. W. (2021). A popu
 
 **Book Chapters**
 <ol>
-
+	<li>A Tabu-Based Bees Algorithm for Unmanned Aerial Vehicles in Maritime Search and Rescue Path Planning (forthcomting)</li>
+	<li>A Knowledge Transfer-based Bees Algorithm for	Expert Team Formation Problem in Internet	Company (forthcomting)</li>
+	<li><b>Song, Y.</b>, Xing, L., Chen, Y. (2022). Application of the Dual-population Bees Algorithm in a Parallel Machine Scheduling Problem with a Time Window, Intelligent Production and Manufacturing Optimisation—The Bees Algorithm Approach. Editor: Duc Truong Pham, Natalia Hartono</li>
 </ol>
 
 **Conference Papers**
 <ol>
 <li>Huang, Y., Luo, A., Zhang, M., Bai, L., <b>Song, Y.</b>, & Li, J. (2023, April). Task Location Distribution Based G enetic A lgorithm for UAV Mobile Crowd Sensing. In Bio-Inspired Computing: Theories and Applications: 17th International Conference, BIC-TA 2022, Wuhan, China, December 16–18, 2022, Revised Selected Papers (pp. 165-178). Singapore: Springer Nature Singapore.</li>
-<li>Wang, H., Li, J., <b>Song, Y.</b>, Huang, J., Li, J., & Chen, Y. (2022, December). An Improved Genetic Algorithm for Team Formation Problem. In 2022 IEEE Symposium Series on Computational Intelligence (SSCI) (pp. 774-781). IEEE.
 <li><b>Song, Y. J.</b>, Ou, J. W., Pham, D. T., Li, J. T., Huang, J. B., & Xing, L. N. (2023, April). A Reinforcement-Learning-Driven Bees Algorithm for Large-Scale Earth Observation Satellite Scheduling. In Bio-Inspired Computing: Theories and Applications: 17th International Conference, BIC-TA 2022, Wuhan, China, December 16–18, 2022, Revised Selected Papers (pp. 81-91). Singapore: Springer Nature Singapore.</li>
+<li>Wang, H., Li, J., <b>Song, Y.</b>, Huang, J., Li, J., & Chen, Y. (2022, December). An Improved Genetic Algorithm for Team Formation Problem. In 2022 IEEE Symposium Series on Computational Intelligence (SSCI) (pp. 774-781). IEEE.
 <li>Huang, Y., Luo, A., Zhang, M., Zhang, X., Lin, M., & <b>Song, Y.</b> (2022, August). A Novel Mission Planning Model and Method for Combat system-of-systems Architecture Design. In 2022 8th International Conference on Big Data and Information Analytics (BigDIA) (pp. 239-245). IEEE.</li>
 <li><b>Song, Y.</b>, Wei, L., Xing, L., Fang, Y., Zhang, Z., & Chen, Y. (2021). Solving Satellite Range Scheduling Problem with Learning-Based Artificial Bee Colony Algorithm. BIC-TA.</li>
 <li>Wei, L.,<b>Song, Y.</b>, Xing, L., Chen, M., & Chen, Y. (2021). A Hybrid Multi-objective Coevolutionary Approach for the Multi-user Agile Earth Observation Satellite Scheduling Problem. BIC-TA.</li>
