@@ -11,25 +11,33 @@ To get the BibTex of the full papers, please download from [here](https://github
 **Working Papers**
 <ol>
 
-Multi-Objective Flexible Job Shop Scheduling via Preference-Conditioned Graph Reinforcement Learning (Working Paper)
-Reinforcement Learning-assisted Evolutionary Algorithm: A Survey and Research Opportunities 	(Working Paper)
-Reinforcement Learning-assisted Evolutionary Algorithm: A Survey and Research Opportunities (Working Paper)
-Identifying and prioritizing key factors for smart aviation development using the fuzzy best-worst method: A case from China (Working Paper)
-A Reinforcement Learning-based Memetic Algorithm for Energy-Efficient Satellite Range Scheduling Problem (Working Paper)
-Identifying and prioritizing key factors for smart aviation development using the fuzzy best-worst method: A case from China (Working Paper)
-Impact of Allee and fear effect in a fractional-order predator-prey system with group defense and prey chemotaxis (Working Paper)
-Container Shipping Contract Design under Financial Constraints and Default Risks (Working Paper)
-A cooperative autonomous coverage path planning algorithm for maritime search and rescue of persons-in-water based on deep reinforcement learning (Working Paper)
-An Improved LAHC Algorithm for Human Resource Planning in Hierarchical Organization (Working Paper)
-A modeling and optimization method for SoS architecture design based on learning-based task planning (Working Paper)
-A Reinforcement Learning-assisted Genetic Programming Algorithm for Team Formation Problem Considering Person-Job Matching (Working Paper)
-Assessing Growth Potential of Careers in Occupational Mobility Network with Human Capital (Working Paper)
-Data-driven dynamic pricing and inventory management of an omni-channel retailer in an uncertain demand environment (Working Paper)
-An improved heterogeneous graph convolutional network for job recommendation (Working Paper)
-Ensemble Reinforcement Learning: A Survey (Working Paper)
-Generalized Model and Deep Reinforcement Learning Based Evolutionary Method for Multi-type Satellite Observation Scheduling (Working Paper)
-LAGA: A Learning Adaptive Genetic Algorithm for Earth Electromagnetic Satellite Scheduling Problem (Working Paper)
-Knowledge-Transfer Based Genetic Programming Algorithm for Multi-Objective Dynamic Agile Earth Observation Satellite Scheduling Problem (Working Paper)
+<li>Multi-Objective Flexible Job Shop Scheduling via Preference-Conditioned Graph Reinforcement Learning </li>
+<li>Reinforcement Learning-assisted Evolutionary Algorithm: A Survey and Research Opportunities 	</li>
+<li>Reinforcement Learning-assisted Evolutionary Algorithm: A Survey and Research Opportunities </li>
+<li>Identifying and prioritizing key factors for smart aviation development using the fuzzy best-worst method: A case from China </li>
+<li>A Reinforcement Learning-based Memetic Algorithm for Energy-Efficient Satellite Range Scheduling Problem </li>
+<li>Identifying and prioritizing key factors for smart aviation development using the fuzzy best-worst method: A case from China </li>
+<li>Impact of Allee and fear effect in a fractional-order predator-prey system with group defense and prey chemotaxis </li>
+<li>Container Shipping Contract Design under Financial Constraints and Default Risks </li>
+<li>A cooperative autonomous coverage path planning algorithm for maritime search and rescue of persons-in-water based on deep reinforcement learning </li>
+<li>An Improved LAHC Algorithm for Human Resource Planning in Hierarchical Organization </li>
+<li>A modeling and optimization method for SoS architecture design based on learning-based task planning </li>
+<li>A Reinforcement Learning-assisted Genetic Programming Algorithm for Team Formation Problem Considering Person-Job Matching </li>
+<li>Assessing Growth Potential of Careers in Occupational Mobility Network with Human Capital </li>
+<li>Data-driven dynamic pricing and inventory management of an omni-channel retailer in an uncertain demand environment </li>
+<li>An improved heterogeneous graph convolutional network for job recommendation </li>
+<li>Ensemble Reinforcement Learning: A Survey </li>
+<li>Generalized Model and Deep Reinforcement Learning Based Evolutionary Method for Multi-type Satellite Observation Scheduling </li>
+<li>LAGA: A Learning Adaptive Genetic Algorithm for Earth Electromagnetic Satellite Scheduling Problem </li>
+Knowledge-Transfer Based Genetic Programming Algorithm for Multi-Objective Dynamic Agile Earth Observation Satellite Scheduling Problem </li>
+
+
+
+</ol>
+
+**Journal Articles**
+<ol>
+
 Feng, Q., Zhang, Y., Sun, B., Guo, X., Fan, D., Ren, Y., \textbf{Song, Y.}, Wang, Z. (2023). Multi-level predictive maintenance of smart manufacturing systems driven by digital twin: A matheuristics approach. Journal of Manufacturing Systems, 68, 443-454.
 Huang, Y., Luo, A., Zhang, M., Bai, L., \textbf{Song, Y.}, \& Li, J. (2023, April). Task Location Distribution Based G enetic A lgorithm for UAV Mobile Crowd Sensing. In Bio-Inspired Computing: Theories and Applications: 17th International Conference, BIC-TA 2022, Wuhan, China, December 16–18, 2022, Revised Selected Papers (pp. 165-178). Singapore: Springer Nature Singapore.
 \textbf{Song, Y. J.}, Ou, J. W., Pham, D. T., Li, J. T., Huang, J. B., \& Xing, L. N. (2023, April). A Reinforcement-Learning-Driven Bees Algorithm for Large-Scale Earth Observation Satellite Scheduling. In Bio-Inspired Computing: Theories and Applications: 17th International Conference, BIC-TA 2022, Wuhan, China, December 16–18, 2022, Revised Selected Papers (pp. 81-91). Singapore: Springer Nature Singapore.
@@ -64,11 +72,6 @@ Ma, X., Li, X., \textbf{Song, Y.}, Zheng, X., Zhang, Z., \& He, R. (2019, July).
 \textbf{Song, Y. J.}, Ma, X., Zhang, Z. S., Xing, L. N., \& Chen, Y. W. (2018, November). A hybrid dynamic population genetic algorithm for multi-satellite and multi-station mission planning system. In International Conference on Bio-Inspired Computing: Theories and Applications (pp. 444-453). Springer, Singapore.
 \textbf{Song, Y. J.}, Ma, X., Zhang, Z. S., Xing, L. N., \& Chen, Y. W. (2018, November). A hybrid dynamic population genetic algorithm for multi-satellite and multi-station mission planning system. In International Conference on Bio-Inspired Computing: Theories and Applications (pp. 444-453). Springer, Singapore.
 \textbf{Song, Y.}, Huang, D., Zhou, Z., \& Chen, Y. (2018). An emergency task autonomous planning method of agile imaging satellite. EURASIP Journal on Image and Video Processing, 2018(1), 1-11.
-
-</ol>
-
-**Journal Articles**
-<ol>
 
 </ol>
 
