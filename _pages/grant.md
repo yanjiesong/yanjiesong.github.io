@@ -4,7 +4,8 @@ title: "Grants"
 permalink: /grant/
 author_profile: true
 ---
-1. Intelligent anti-drowning swimsuit based on blood dissolved oxygen technology, Shenzhen Science and Technology Commission, 2015-2016, 10, 0000 RMB. (PI) 
-2. Vehicle Path Planning of Cold Chain Products, the Innovation and Development Fund Project of Shenzhen University, 2016-2017, 1,0000 RMB. (PI)
-3. Multi-population Particle Swarm Optimization Algorithm and Its Application in Vehicle Routing Problem of Cold Chain Products, the Graduate Students' Independent Innovation Fund Research Project of Shenzhen University, 2015-2016, 3000 RMB. (PI) 
-4. The Nurse Scheduling Optimization under Multiple Constraints, the Annual Extra-curricular Academic and Technological Innovation Project of Shenzhen University, 2015-2016, 1800 RMB. (PI) 
+1. National Natural Science Foundation of China in 2019: Space Deployment Optimization and Decision-making for Rapid Response to Maritime Emergencies (Participate)
+2. National Natural Science Foundation of China in 2019: Modeling and Solution of Demand-Driven Beidou Satellite-Earth Time Synchronization Mission Planning Problem (Participate)
+3. The National Innovation Project for college students in 2016: Research on Credit Rationing Model under Multi-task Agent (Host)
+4. The National Innovation Project for college students in 2016: Research on the Innovation of Urban Infrastructure Construction Investment and Financing Model Under the Background of the New Policy (Participate)
+5. The National Innovation Project for college students in 2015: Design and Implementation of 'Xiaowei Classroom' based on WeChat Public Platform  (Participate)
