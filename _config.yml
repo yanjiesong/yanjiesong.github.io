@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Yanjie Song's Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Yanjie Song"
 description              : &description "personal description"
 url                      : https://yanjiesong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Yanjie Song"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "A Researcher"
+  location         : "Tianjin， China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.hk/citations?user=r4-Ou3wAAAAJ&hl=zh-CN"
