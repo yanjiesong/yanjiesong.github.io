@@ -13,7 +13,7 @@ redirect_from:
 Research Interests
 =====
 • Combinatorial optimization \
-• Single optimization, multitask optimisation, multi-objective optimisation \
+• Single-objective optimization, multitask optimization, multi-objective optimization \
 • Artificial intelligence, machine learning \
 • Evolutionary computation \
 • Reinforcement learning, transfer learning, meta-learning \
