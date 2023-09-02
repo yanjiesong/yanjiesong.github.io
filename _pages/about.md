@@ -26,4 +26,13 @@ Yanjie Song received double B.S. degrees in Management from Tianjin University, 
 
 Collaborators
 ======
-Prof. [Yi Mei](https://scholar.google.co.nz/citations?user=vTC_7_wAAAAJ&hl=en), Victoria Universty of Wellington\\
+Prof. Witold Pedrycz, University of Alberta, Canda \
+Prof. P. N. Suganthan, Nanyang Technological University, Singapore \
+Prof. Duc Truong Pham, University of Birmingham, UK \
+Prof. Ling Wang, Tsinghua University, China \
+Prof. Rui Wang, National University of Defense Technology, China \
+Prof. Ke Tang, Southern University of Science and Technology, China \
+Dr. Xinwei Wang, Queen Mary University of London, UK \
+Prof. Yi Mei, Victoria University of Wellington \
+Dr. Fangfang Zhang, Victoria University of Wellington \
+
