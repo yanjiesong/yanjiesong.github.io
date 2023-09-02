@@ -81,11 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Yanjie Song"
-  avatar           : "profile.png"
+  avatar           : "https://github.com/yanjiesong/yanjiesong.github.io/science.jpg"
   bio              : "Parctice makes perfect."
   location         : "Tianjin, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.hk/citations?user=r4-Ou3wAAAAJ&hl=zh-CN"
   email            :  "yanjiesong96@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
