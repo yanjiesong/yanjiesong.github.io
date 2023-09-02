@@ -8,6 +8,8 @@ author_profile: true
 ---
 To get the BibTex of the full papers, please download from [here](https://github.com/yanjiesong/yanjiesong.github.io/blob/master/files/mybib.bib), or ask me via yanjiesong96@gmail.com.
 
+If you need the PDF of any of the papers, please feel free to contact me.
+
 **Working Papers**
 <ol>
 <li>Multi-Objective Flexible Job Shop Scheduling via Preference-Conditioned Graph Reinforcement Learning </li>
