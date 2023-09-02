@@ -16,7 +16,7 @@ ul li { padding: 5px 0px; }
 **Conference Organisation** 
 <ol>
 <li> Editor, <a href="https://www.ammsamath.com/committee/"> 2023 3rd International Conference on Applied Mathematics, Modelling and Statistics Application (AMMSA 2023) </a> </li>	
-<li>  Publicity Chair, International Conference on Computational Intelligence and Communication System, 2023</li>
+<li>  Publicity Chair, <a href="https://www.ccicsconf.com/index/singer/category_id/58.html"> International Conference on Computational Intelligence and Communication System</a>, 2023</li>
 </ol>
 
 
