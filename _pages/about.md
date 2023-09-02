@@ -35,8 +35,8 @@ Prof. Ke Tang, Southern University of Science and Technology, China \
 Dr. Xinwei Wang, Queen Mary University of London, UK \
 Prof. Yi Mei, Victoria University of Wellington, New Zealand \
 Dr. Fangfang Zhang, Victoria University of Wellington, New Zealand \
-Dr. Ran Yan, Nanyang Technological University, Singapore--optimization \
-Prof. Swagatam Das, Indian Statistical Institute, India--swarm intelligence \
+Dr. Ran Yan, Nanyang Technological University, Singapore \
+Prof. Swagatam Das, Indian Statistical Institute, India \
 Prof. Rammohan Mallipeddi, Kyungpook National University, South Korea \
 Dr. Oladayo Solomon Ajani, Kyungpook National University, South Korea \
 Dr. Yutong Wu, University of Kent, UK \
