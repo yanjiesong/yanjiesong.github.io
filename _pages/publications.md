@@ -30,14 +30,10 @@ To get the BibTex of the full papers, please download from [here](https://github
 <li>Generalized Model and Deep Reinforcement Learning Based Evolutionary Method for Multi-type Satellite Observation Scheduling </li>
 <li>LAGA: A Learning Adaptive Genetic Algorithm for Earth Electromagnetic Satellite Scheduling Problem </li>
 Knowledge-Transfer Based Genetic Programming Algorithm for Multi-Objective Dynamic Agile Earth Observation Satellite Scheduling Problem </li>
-
-
-
 </ol>
 
 **Journal Articles**
 <ol>
-
 <li>Feng, Q., Zhang, Y., Sun, B., Guo, X., Fan, D., Ren, Y., <b>Song, Y.</b>, Wang, Z. (2023). Multi-level predictive maintenance of smart manufacturing systems driven by digital twin: A matheuristics approach. Journal of Manufacturing Systems, 68, 443-454.</li>
 <li><b>Song, Y.</b>, Ou, J., Wu, J., Wu, Y., Xing, L., & Chen, Y. (2023). A cluster-based genetic optimization method for satellite range scheduling system. Swarm and Evolutionary Computation, 101316.</li>
 <li><b>Song, Y.</b>, Wei, L., Yang, Q., Wu, J., Xing, L., & Chen, Y. (2023). RL-GA: A reinforcement learning-based genetic algorithm for electromagnetic detection satellite scheduling problem. Swarm and Evolutionary Computation, 101236.</li>
@@ -59,15 +55,14 @@ Chen, M., Wen, J., <b>Song, Y. J.</b>, Xing, L. N., & Chen, Y. W. (2021). A popu
 <li>Wang, Q., Luo, H., Xiong, J., <b>Song, Y.*</b>, & Zhang, Z. (2019). Evolutionary algorithm for aerospace shell product digital production line scheduling problem. Symmetry, 11(7), 849.</li>
 <li><b>Song, Y. J.</b>, Song, B. Y., Zhang, Z. S., & Chen, Y. W. (2018). The satellite downlink replanning problem: A BP neural network and hybrid algorithm approach for IoT Internet connection. IEEE Access, 6, 39797-39806.
 <li><b>Song, Y.</b>, Huang, D., Zhou, Z., & Chen, Y. (2018). An emergency task autonomous planning method of agile imaging satellite. EURASIP Journal on Image and Video Processing, 2018(1), 1-11.</li>
-
 </ol>
 
 
 **Book Chapters**
 <ol>
-	<li>A Tabu-Based Bees Algorithm for Unmanned Aerial Vehicles in Maritime Search and Rescue Path Planning (forthcomting)</li>
-	<li>A Knowledge Transfer-based Bees Algorithm for	Expert Team Formation Problem in Internet	Company (forthcomting)</li>
-	<li><b>Song, Y.</b>, Xing, L., Chen, Y. (2022). Application of the Dual-population Bees Algorithm in a Parallel Machine Scheduling Problem with a Time Window, Intelligent Production and Manufacturing Optimisation—The Bees Algorithm Approach. Editor: Duc Truong Pham, Natalia Hartono</li>
+<li>A Tabu-Based Bees Algorithm for Unmanned Aerial Vehicles in Maritime Search and Rescue Path Planning (forthcomting)</li>
+<li>A Knowledge Transfer-based Bees Algorithm for	Expert Team Formation Problem in Internet	Company (forthcomting)</li>
+<li><b>Song, Y.</b>, Xing, L., Chen, Y. (2022). Application of the Dual-population Bees Algorithm in a Parallel Machine Scheduling Problem with a Time Window, Intelligent Production and Manufacturing Optimisation—The Bees Algorithm Approach. Editor: Duc Truong Pham, Natalia Hartono</li>
 </ol>
 
 **Conference Papers**
@@ -84,14 +79,15 @@ Chen, M., Wen, J., <b>Song, Y. J.</b>, Xing, L. N., & Chen, Y. W. (2021). A popu
 <li>Ma, X., Li, X., <b>Song, Y.</b>, Zheng, X., Zhang, Z., & He, R. (2019, July). A bp neural network for identifying corporate financial fraud. In 2019 IEEE International Conference on Intelligence and Security Informatics (ISI) (pp. 191-193). IEEE.</li>
 <li>Ma, X., Zhang, Y., <b>Song, Y. J.</b>, Zhang, Z. S., Yao, F., & Han, X. D. (2019, March). A Fast and Effective Solution Algorithm for Satellite Measurement and Control Scheduling Problem. In Proceedings of the International Conference on Industrial Control Network and System Engineering Research (pp. 14-17).</li>
 <li><b>Song, Y. J.</b>, Ma, X., Zhang, Z. S., Xing, L. N., & Chen, Y. W. (2018, November). A hybrid dynamic population genetic algorithm for multi-satellite and multi-station mission planning system. In International Conference on Bio-Inspired Computing: Theories and Applications (pp. 444-453). Springer, Singapore.</li>
-  
 </ol>
 
 **Patents**
-
 <ol>
-  
+<li>Chinese Patent. Cluster-based Satellite Measurement and Control Scheduling Method and System, Patent Pending Number: 2022104076790.</li>
+<li>Chinese Patent. Multi-satellite Joint Planning Method and System Considering Task Splitting, Patent Pending Number: 2022103947224.</li>
+<li>Chinese Patent. Imaging Satellite Autonomous Mission Planning Method based on Machine Learning, Patent Pending Number: 201910034280.0</li>
+<li>Chinese Patent. A Reinforcement Learning based Evolution Method, System and Device for Satellite Mission Planning, Patent Pending Number: 2022104852062</li>
+<li>Chinese Patent. Online scheduling method for dynamically arriving tasks, Patent Pending Number: 2020101029515</li>
+<li>Chinese Software Copyright. Navigation and message return business planning software, Copyright Registration Number: 2019SR0324482.</li>
 </ol>
 
-
-</ol>
