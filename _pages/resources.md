@@ -10,14 +10,14 @@ author_profile: true
 EC Platforms
 =====
 <ol>
-<li>Evolutionary multi-objective optimization platform <a href="https://github.com/BIMK/PlatEMO"> [PlatEMO] </a></li>
-<li>Distributed Evolutionary Algorithms in Python <a href="https://github.com/DEAP/deap"> [DEAP] </a></li>
+<li>Evolutionary multi-objective optimization platform, <a href="https://github.com/BIMK/PlatEMO"> [PlatEMO] </a></li>
+<li>Distributed Evolutionary Algorithms in Python, <a href="https://github.com/DEAP/deap"> [DEAP] </a></li>
 </ol>
 
 Datasets
 =====
 <ol>
-<li>Instances for the Pickup and Delivery Problem with Time Windows <a href="https://github.com/tomsong00/pdptw-instances"> [PDPTW] </a></li>
+<li>Instances for the Pickup and Delivery Problem with Time Windows, <a href="https://github.com/tomsong00/pdptw-instances"> [PDPTW] </a></li>
 
 </ol>
 
