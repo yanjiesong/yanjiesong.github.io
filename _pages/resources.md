@@ -17,7 +17,7 @@ EC Platforms
 
 Datasets
 =====
-**VRP**
+**OR**
 <ol>
 <li>Instances for the Pickup and Delivery Problem with Time Windows, <a href="https://github.com/tomsong00/pdptw-instances"> [PDPTW] </a></li>
 
