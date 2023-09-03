@@ -13,7 +13,7 @@ If you need the PDF of any of the papers, please feel free to contact me.
 **Working Papers**
 <ol>
 <li>Multi-Objective Flexible Job Shop Scheduling via Preference-Conditioned Graph Reinforcement Learning </li>
-<li>Reinforcement Learning-assisted Evolutionary Algorithm: A Survey and Research Opportunities 	</li>
+<li>Reinforcement Learning-assisted Evolutionary Algorithm: A Survey and Research Opportunities <a href="https://github.com/yanjiesong/yanjiesong.github.io/blob/master/files/Reinforcement%20Learning-assisted%20Evolutionary%20Algorithm%20A%20Survey.pdf"> [pdf] </a>	</li>
 <li>Identifying and prioritizing key factors for smart aviation development using the fuzzy best-worst method: A case from China </li>
 <li>A Reinforcement Learning-based Memetic Algorithm for Energy-Efficient Satellite Range Scheduling Problem </li>
 <li>Identifying and prioritizing key factors for smart aviation development using the fuzzy best-worst method: A case from China </li>
@@ -22,11 +22,11 @@ If you need the PDF of any of the papers, please feel free to contact me.
 <li>A cooperative autonomous coverage path planning algorithm for maritime search and rescue of persons-in-water based on deep reinforcement learning </li>
 <li>An Improved LAHC Algorithm for Human Resource Planning in Hierarchical Organization </li>
 <li>A modeling and optimization method for SoS architecture design based on learning-based task planning </li>
-<li>A Reinforcement Learning-assisted Genetic Programming Algorithm for Team Formation Problem Considering Person-Job Matching </li>
+<li>A Reinforcement Learning-assisted Genetic Programming Algorithm for Team Formation Problem Considering Person-Job Matching <a href="https://github.com/yanjiesong/yanjiesong.github.io/blob/master/files/A%20Reinforcement%20Learning-assisted%20Genetic%20Programming%20Algorithm%20for%20Team%20Formation%20Problem%20Considering%20Person-Job%20Matching.pdf"> [pdf]</a></li>
 <li>Assessing Growth Potential of Careers in Occupational Mobility Network with Human Capital </li>
 <li>Data-driven dynamic pricing and inventory management of an omni-channel retailer in an uncertain demand environment </li>
 <li>An improved heterogeneous graph convolutional network for job recommendation </li>
-<li>Ensemble Reinforcement Learning: A Survey </li>
+<li>Ensemble Reinforcement Learning: A Survey <a href="https://github.com/yanjiesong/yanjiesong.github.io/blob/master/files/Ensemble%20Reinforcement%20Learning%20A%20Survey.pdf"> [pdf]</a></li>
 <li>Generalized Model and Deep Reinforcement Learning Based Evolutionary Method for Multi-type Satellite Observation Scheduling </li>
 <li>LAGA: A Learning Adaptive Genetic Algorithm for Earth Electromagnetic Satellite Scheduling Problem </li>
 Knowledge-Transfer Based Genetic Programming Algorithm for Multi-Objective Dynamic Agile Earth Observation Satellite Scheduling Problem </li>
@@ -34,7 +34,7 @@ Knowledge-Transfer Based Genetic Programming Algorithm for Multi-Objective Dynam
 
 **Journal Articles**
 <ol>
-<li>Feng, Q., Zhang, Y., Sun, B., Guo, X., Fan, D., Ren, Y., <b>Song, Y.</b>, Wang, Z. (2023). Multi-level predictive maintenance of smart manufacturing systems driven by digital twin: A matheuristics approach. Journal of Manufacturing Systems, 68, 443-454.</li>
+<li>Feng, Q., Zhang, Y., Sun, B., Guo, X., Fan, D., Ren, Y., <b>Song, Y.</b>, Wang, Z. (2023). Multi-level predictive maintenance of smart manufacturing systems driven by digital twin: A matheuristics approach. Journal of Manufacturing Systems, 68, 443-454. <a href="https://github.com/yanjiesong/yanjiesong.github.io/blob/master/files/Multi-level%20predictive%20maintenance%20of%20smart%20manufacturing%20systems%20driven%20by%20digital%20twin%20A%20matheuristics%20approach.pdf"> [pdf]</a></li>
 <li><b>Song, Y.</b>, Ou, J., Wu, J., Wu, Y., Xing, L., & Chen, Y. (2023). A cluster-based genetic optimization method for satellite range scheduling system. Swarm and Evolutionary Computation, 101316.</li>
 <li><b>Song, Y.</b>, Wei, L., Yang, Q., Wu, J., Xing, L., & Chen, Y. (2023). RL-GA: A reinforcement learning-based genetic algorithm for electromagnetic detection satellite scheduling problem. Swarm and Evolutionary Computation, 101236.</li>
 <li>Wu, J., Yao, F., <b>Song, Y.</b>, He, L., Lu, F., Du, Y., ... & Ou, J. (2023). Frequent Pattern-Based Parallel Search Approach for Time-Dependent Agile Earth Observation Satellite Scheduling. Information Sciences.</li>
