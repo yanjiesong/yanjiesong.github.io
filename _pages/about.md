@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-
+News
+=====
+• 2023-9-3, A survey on reinforcement learning-assisted evolutionary algorithm has been released in arXiv and submitted to the SWEVO, <a href="https://arxiv.org/abs/2308.13420"> [A Survey on RL-EA] </a>.
 
 Research Interests
 =====
@@ -19,9 +21,6 @@ Research Interests
 • Reinforcement learning, transfer learning, meta-learning \
 • Multi-population, surrogate, genetic operators 
 
-News
-=====
-• 2023-9-3, A survey on reinforcement learning-assisted evolutionary algorithm has been released in arXiv and submitted to the SWEVO <a href="https://arxiv.org/abs/2308.13420"> [A Survey on RL-EA] </a>.
 
 Biography
 ======
