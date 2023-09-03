@@ -25,7 +25,10 @@ main:
     url: /grant/
 
   - title: "Honours/Awards"
-    url: /honours-awards/   
+    url: /honours-awards/  
+
+  - title: "Resources"
+    url: /resources/
     
   #- title: "Guide"
   #  url: /markdown/
