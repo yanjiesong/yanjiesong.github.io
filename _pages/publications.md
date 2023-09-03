@@ -14,7 +14,6 @@ If you need the PDF of any of the papers, please feel free to contact me.
 <ol>
 <li>Multi-Objective Flexible Job Shop Scheduling via Preference-Conditioned Graph Reinforcement Learning </li>
 <li>Reinforcement Learning-assisted Evolutionary Algorithm: A Survey and Research Opportunities 	</li>
-<li>Reinforcement Learning-assisted Evolutionary Algorithm: A Survey and Research Opportunities </li>
 <li>Identifying and prioritizing key factors for smart aviation development using the fuzzy best-worst method: A case from China </li>
 <li>A Reinforcement Learning-based Memetic Algorithm for Energy-Efficient Satellite Range Scheduling Problem </li>
 <li>Identifying and prioritizing key factors for smart aviation development using the fuzzy best-worst method: A case from China </li>
