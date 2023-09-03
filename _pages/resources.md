@@ -12,6 +12,7 @@ EC Platforms
 <ol>
 <li>Evolutionary multi-objective optimization platform, <a href="https://github.com/BIMK/PlatEMO"> [PlatEMO] </a></li>
 <li>Distributed Evolutionary Algorithms in Python, <a href="https://github.com/DEAP/deap"> [DEAP] </a></li>
+<li>A Java-based Evolutionary Computation Research System, <a href="https://cs.gmu.edu/~eclab/projects/ecj/"> [ECJ]</a></li>
 </ol>
 
 Datasets
