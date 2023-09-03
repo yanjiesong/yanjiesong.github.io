@@ -10,9 +10,20 @@ author_profile: true
 EC Platforms
 =====
 <ol>
-<li>Evolutionary multi-objective optimization platform (PlatEMO) <a href="https://github.com/BIMK/PlatEMO"> [cite] </a></li>
-
+<li>Evolutionary multi-objective optimization platform <a href="https://github.com/BIMK/PlatEMO"> [PlatEMO] </a></li>
+<li>Distributed Evolutionary Algorithms in Python <a href="https://github.com/DEAP/deap"> [DEAP] </a></li>
 </ol>
 
 Datasets
 =====
+<ol>
+<li>Instances for the Pickup and Delivery Problem with Time Windows <a href="https://github.com/tomsong00/pdptw-instances"> [PDPTW] </a></li>
+
+</ol>
+
+Open Source Codes
+=====
+<ol>
+<li>A Learning-based Memetic Algorithm for Energy-Efficient Flexible Job Shop Sc heduling With Type-2 Fuzzy Processing Time, TEVC, 2022. <a href="https://github.com/CUGLiRui/CUGLiRui.github.io/blob/main/Code/LRVMA-mat.rar"> [LRVMA-2022TEVC] </a></li>
+
+</ol>
