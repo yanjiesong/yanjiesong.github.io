@@ -8,7 +8,7 @@ ul li { padding: 5px 0px; }
 
 **Editor**
 <ol>
-<li> Editorial Board Member, Computer Engineering</li>
+<li> Editorial Board Member, <a href="http://www.ecice06.com/CN/news/news6495.shtml"> Computer Engineering</a></li>
 <li> Guest Editor, <a href="https://www.frontiersin.org/research-topics/49193/application-of-intelligent-planning-algorithms-in-future-generation-satellite-systems">Application of Intelligent Planning Algorithms in Future Generation Satellite Systems</a>, Frontiers in Space Technologies </li>
 
 </ol>
