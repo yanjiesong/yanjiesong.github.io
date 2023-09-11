@@ -28,7 +28,7 @@ If you need the PDF of any of the papers, please feel free to contact me.
 <li>An improved heterogeneous graph convolutional network for job recommendation </li>
 <li>Ensemble Reinforcement Learning: A Survey <a href="https://github.com/yanjiesong/yanjiesong.github.io/blob/master/files/Ensemble%20Reinforcement%20Learning%20A%20Survey.pdf"> [pdf]</a></li>
 <li>Generalized Model and Deep Reinforcement Learning Based Evolutionary Method for Multi-type Satellite Observation Scheduling </li>
-Knowledge-Transfer Based Genetic Programming Algorithm for Multi-Objective Dynamic Agile Earth Observation Satellite Scheduling Problem </li>
+<li>Knowledge-Transfer Based Genetic Programming Algorithm for Multi-Objective Dynamic Agile Earth Observation Satellite Scheduling Problem </li>
 </ol>
 
 **Journal Articles**
