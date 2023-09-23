@@ -46,6 +46,8 @@ Prof. Swagatam Das, Indian Statistical Institute, India \
 Prof. Rammohan Mallipeddi, Kyungpook National University, South Korea \
 Dr. Oladayo Solomon Ajani, Kyungpook National University, South Korea \
 Dr. Yutong Wu, University of Kent, UK \
-Dr. Qinwen Yang, University of Auckland, New Zealand 
+Dr. Qinwen Yang, University of Auckland, New Zealand \
+Dr. Yue Zhang, National University of Singapore, Singapore \
+Dr. Ying Bi, Zhengzhou University, China
 
 
