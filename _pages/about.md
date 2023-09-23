@@ -10,6 +10,7 @@ redirect_from:
 
 News
 =====
+• 2023-9-17, The manuscript entitled "Impact of Allee and fear effects in a fractional order prey-predator system with group defence and prey refuge" has been accepted by Chaos: An Interdisciplinary Journal of Nonlinear Science \
 • 2023-9-11, The manuscript entitled "An improved heterogeneous graph convolutional network for job recommendation" has been accepted by Engineering Applications of Artificial Intelligence \
 • 2023-9-4, The manuscript entitled "Learning Adaptive Genetic Algorithm for Earth Electromagnetic Satellite Scheduling" has been accepted by IEEE Trans. on Aerospace and Electronic Systems. <a href="https://github.com/yanjiesong/yanjiesong.github.io/blob/master/files/laga2023taes.pdf"> [LAGA]</a>\
 • 2023-9-3, A survey on reinforcement learning-assisted evolutionary algorithm has been released in arXiv and submitted to the SWEVO, <a href="https://arxiv.org/abs/2308.13420"> [A Survey on RL-EA] </a>.
