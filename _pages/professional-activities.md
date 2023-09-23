@@ -24,6 +24,7 @@ ul li { padding: 5px 0px; }
 
 **Peer Reviewer for International Journals**
 <ol>
+<li> IEEE Transactions on Systems, Man and Cybernetics: Systems, IEEE</li>
 <li>	Swarm and Evolutionary Computation, Elsevier </li>
 <li>   Neural Networks, Elsevier</li>
 <li>   Complex & Intelligent Systems, Springer </li>
@@ -71,6 +72,7 @@ ul li { padding: 5px 0px; }
 <li>IEEE International Conference in Data Mining (ICDM), 2022 </li>
 <li>IEEE Congress on Evolutionary Computation (CEC), 2023 </li>
 <li>International Workshop on the Bees Algorithm and its Applications (BAA), 2023 </li>
+<li>IEEE International Conference in Data Mining (ICDM), 2023 </li>
 </ol>
 
 **Professional Membership**
