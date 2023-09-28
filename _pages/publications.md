@@ -25,7 +25,6 @@ If you need the PDF of any of the papers, please feel free to contact me.
 <li>A Reinforcement Learning-assisted Genetic Programming Algorithm for Team Formation Problem Considering Person-Job Matching <a href="https://github.com/yanjiesong/yanjiesong.github.io/blob/master/files/A%20Reinforcement%20Learning-assisted%20Genetic%20Programming%20Algorithm%20for%20Team%20Formation%20Problem%20Considering%20Person-Job%20Matching.pdf"> [pdf]</a></li>
 <li>Assessing Growth Potential of Careers in Occupational Mobility Network with Human Capital </li>
 <li>Data-driven dynamic pricing and inventory management of an omni-channel retailer in an uncertain demand environment </li>
-<li>An improved heterogeneous graph convolutional network for job recommendation </li>
 <li>Ensemble Reinforcement Learning: A Survey <a href="https://github.com/yanjiesong/yanjiesong.github.io/blob/master/files/Ensemble%20Reinforcement%20Learning%20A%20Survey.pdf"> [pdf]</a></li>
 <li>Generalized Model and Deep Reinforcement Learning Based Evolutionary Method for Multi-type Satellite Observation Scheduling </li>
 <li>Knowledge-Transfer Based Genetic Programming Algorithm for Multi-Objective Dynamic Agile Earth Observation Satellite Scheduling Problem </li>
@@ -33,7 +32,7 @@ If you need the PDF of any of the papers, please feel free to contact me.
 
 **Journal Articles**
 <ol>
-<li> Wang, H., Yang, W., Li, J., Ou, J., <b>Song, Y.</b>b, & Chen, Y. (2023). An improved heterogeneous graph convolutional network for job recommendation. Engineering Applications of Artificial Intelligence, 126, 107147.</li>
+<li> Wang, H., Yang, W., Li, J., Ou, J., <b>Song, Y.</b>, & Chen, Y. (2023). An improved heterogeneous graph convolutional network for job recommendation. Engineering Applications of Artificial Intelligence, 126, 107147.<a href="https://github.com/yanjiesong/yanjiesong.github.io/blob/master/files/An%20improved%20heterogeneous%20graph%20convolutional%20network%20forjob%20recommendation.pdf"> [pdf]</a></li>
 <li><b>Song, Y.</b>, Ou, J., Suganthan, P. N., Pedrycz, W., Yang, Q., & Xing, L. (2023). Learning Adaptive Genetic Algorithm for Earth Electromagnetic Satellite Scheduling. IEEE Transactions on Aerospace and Electronic Systems. <a href="https://github.com/yanjiesong/yanjiesong.github.io/blob/master/files/laga2023taes.pdf"> [pdf]</a></li>
 <li>Feng, Q., Zhang, Y., Sun, B., Guo, X., Fan, D., Ren, Y., <b>Song, Y.</b>, Wang, Z. (2023). Multi-level predictive maintenance of smart manufacturing systems driven by digital twin: A matheuristics approach. Journal of Manufacturing Systems, 68, 443-454. <a href="https://github.com/yanjiesong/yanjiesong.github.io/blob/master/files/Multi-level%20predictive%20maintenance%20of%20smart%20manufacturing%20systems%20driven%20by%20digital%20twin%20A%20matheuristics%20approach.pdf"> [pdf]</a></li>
 <li><b>Song, Y.</b>, Ou, J., Wu, J., Wu, Y., Xing, L., & Chen, Y. (2023). A cluster-based genetic optimization method for satellite range scheduling system. Swarm and Evolutionary Computation, 101316. <a href="https://github.com/yanjiesong/yanjiesong.github.io/blob/master/files/A%20cluster-based%20genetic%20optimization%20method%20for%20satellite%20range%20scheduling%20system.pdf"> [pdf]</a></li>
