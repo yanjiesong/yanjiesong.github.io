@@ -12,6 +12,7 @@ If you need the PDF of any of the papers, please feel free to contact me.
 
 **Working Papers**
 <ol>
+<li>A Reinforcement learning-based two-layer Adaptive Optimization Method for User-side Energy Storage Scheduling Problem </li>
 <li>Multi-Objective Flexible Job Shop Scheduling via Preference-Conditioned Graph Reinforcement Learning </li>
 <li>Reinforcement Learning-assisted Evolutionary Algorithm: A Survey and Research Opportunities <a href="https://github.com/yanjiesong/yanjiesong.github.io/blob/master/files/Reinforcement%20Learning-assisted%20Evolutionary%20Algorithm%20A%20Survey.pdf"> [pdf] </a>	</li>
 <li>Identifying and prioritizing key factors for smart aviation development using the fuzzy best-worst method: A case from China </li>
