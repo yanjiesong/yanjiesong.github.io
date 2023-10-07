@@ -10,26 +10,6 @@ To get the BibTex of the full papers, please download from [here](https://github
 
 If you need the PDF of any of the papers, please feel free to contact me.
 
-**Working Papers**
-<ol>
-<li>A Reinforcement learning-based two-layer Adaptive Optimization Method for User-side Energy Storage Scheduling Problem </li>
-<li>Multi-Objective Flexible Job Shop Scheduling via Preference-Conditioned Graph Reinforcement Learning </li>
-<li>Reinforcement Learning-assisted Evolutionary Algorithm: A Survey and Research Opportunities <a href="https://github.com/yanjiesong/yanjiesong.github.io/blob/master/files/Reinforcement%20Learning-assisted%20Evolutionary%20Algorithm%20A%20Survey.pdf"> [pdf] </a>	</li>
-<li>Identifying and prioritizing key factors for smart aviation development using the fuzzy best-worst method: A case from China </li>
-<li>A Reinforcement Learning-based Memetic Algorithm for Energy-Efficient Satellite Range Scheduling Problem </li>
-<li>Impact of Allee and fear effect in a fractional-order predator-prey system with group defense and prey chemotaxis </li>
-<li>Container Shipping Contract Design under Financial Constraints and Default Risks </li>
-<li>A cooperative autonomous coverage path planning algorithm for maritime search and rescue of persons-in-water based on deep reinforcement learning </li>
-<li>An Improved LAHC Algorithm for Human Resource Planning in Hierarchical Organization </li>
-<li>When Architecture Meets RL+EA: A Hybrid Intelligent Optimization Approach for Selecting Combat Svstem-of-Svstems Architecture </li>
-<li>A Reinforcement Learning-assisted Genetic Programming Algorithm for Team Formation Problem Considering Person-Job Matching <a href="https://github.com/yanjiesong/yanjiesong.github.io/blob/master/files/A%20Reinforcement%20Learning-assisted%20Genetic%20Programming%20Algorithm%20for%20Team%20Formation%20Problem%20Considering%20Person-Job%20Matching.pdf"> [pdf]</a></li>
-<li>Assessing Growth Potential of Careers in Occupational Mobility Network with Human Capital </li>
-<li>Data-driven dynamic pricing and inventory management of an omni-channel retailer in an uncertain demand environment </li>
-<li>Ensemble Reinforcement Learning: A Survey <a href="https://github.com/yanjiesong/yanjiesong.github.io/blob/master/files/Ensemble%20Reinforcement%20Learning%20A%20Survey.pdf"> [pdf]</a></li>
-<li>Generalized Model and Deep Reinforcement Learning Based Evolutionary Method for Multi-type Satellite Observation Scheduling </li>
-<li>Knowledge-Transfer Based Genetic Programming Algorithm for Multi-Objective Dynamic Agile Earth Observation Satellite Scheduling Problem </li>
-</ol>
-
 **Journal Articles**
 <ol>
 <li> Wang, H., Yang, W., Li, J., Ou, J., <b>Song, Y.</b>, & Chen, Y. (2023). An improved heterogeneous graph convolutional network for job recommendation. Engineering Applications of Artificial Intelligence, 126, 107147.<a href="https://github.com/yanjiesong/yanjiesong.github.io/blob/master/files/An%20improved%20heterogeneous%20graph%20convolutional%20network%20forjob%20recommendation.pdf"> [pdf]</a></li>
@@ -89,5 +69,25 @@ If you need the PDF of any of the papers, please feel free to contact me.
 <li>Chinese Patent. A Reinforcement Learning based Evolution Method, System and Device for Satellite Mission Planning, Patent Pending Number: 2022104852062</li>
 <li>Chinese Patent. Online scheduling method for dynamically arriving tasks, Patent Pending Number: 2020101029515</li>
 <li>Chinese Software Copyright. Navigation and message return business planning software, Copyright Registration Number: 2019SR0324482.</li>
+</ol>
+
+**Working Papers**
+<ol>
+<li>A Reinforcement learning-based two-layer Adaptive Optimization Method for User-side Energy Storage Scheduling Problem </li>
+<li>Multi-Objective Flexible Job Shop Scheduling via Preference-Conditioned Graph Reinforcement Learning </li>
+<li>Reinforcement Learning-assisted Evolutionary Algorithm: A Survey and Research Opportunities <a href="https://github.com/yanjiesong/yanjiesong.github.io/blob/master/files/Reinforcement%20Learning-assisted%20Evolutionary%20Algorithm%20A%20Survey.pdf"> [pdf] </a>	</li>
+<li>Identifying and prioritizing key factors for smart aviation development using the fuzzy best-worst method: A case from China </li>
+<li>A Reinforcement Learning-based Memetic Algorithm for Energy-Efficient Satellite Range Scheduling Problem </li>
+<li>Impact of Allee and fear effect in a fractional-order predator-prey system with group defense and prey chemotaxis </li>
+<li>Container Shipping Contract Design under Financial Constraints and Default Risks </li>
+<li>A cooperative autonomous coverage path planning algorithm for maritime search and rescue of persons-in-water based on deep reinforcement learning </li>
+<li>An Improved LAHC Algorithm for Human Resource Planning in Hierarchical Organization </li>
+<li>When Architecture Meets RL+EA: A Hybrid Intelligent Optimization Approach for Selecting Combat Svstem-of-Svstems Architecture </li>
+<li>A Reinforcement Learning-assisted Genetic Programming Algorithm for Team Formation Problem Considering Person-Job Matching <a href="https://github.com/yanjiesong/yanjiesong.github.io/blob/master/files/A%20Reinforcement%20Learning-assisted%20Genetic%20Programming%20Algorithm%20for%20Team%20Formation%20Problem%20Considering%20Person-Job%20Matching.pdf"> [pdf]</a></li>
+<li>Assessing Growth Potential of Careers in Occupational Mobility Network with Human Capital </li>
+<li>Data-driven dynamic pricing and inventory management of an omni-channel retailer in an uncertain demand environment </li>
+<li>Ensemble Reinforcement Learning: A Survey <a href="https://github.com/yanjiesong/yanjiesong.github.io/blob/master/files/Ensemble%20Reinforcement%20Learning%20A%20Survey.pdf"> [pdf]</a></li>
+<li>Generalized Model and Deep Reinforcement Learning Based Evolutionary Method for Multi-type Satellite Observation Scheduling </li>
+<li>Knowledge-Transfer Based Genetic Programming Algorithm for Multi-Objective Dynamic Agile Earth Observation Satellite Scheduling Problem </li>
 </ol>
 
