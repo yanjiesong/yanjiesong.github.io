@@ -22,7 +22,7 @@ If you need the PDF of any of the papers, please feel free to contact me.
 <li>Container Shipping Contract Design under Financial Constraints and Default Risks </li>
 <li>A cooperative autonomous coverage path planning algorithm for maritime search and rescue of persons-in-water based on deep reinforcement learning </li>
 <li>An Improved LAHC Algorithm for Human Resource Planning in Hierarchical Organization </li>
-<li>A modeling and optimization method for SoS architecture design based on learning-based task planning </li>
+<li>When Architecture Meets RL+EA: A Hybrid Intelligent Optimization Approach for Selecting Combat Svstem-of-Svstems Architecture </li>
 <li>A Reinforcement Learning-assisted Genetic Programming Algorithm for Team Formation Problem Considering Person-Job Matching <a href="https://github.com/yanjiesong/yanjiesong.github.io/blob/master/files/A%20Reinforcement%20Learning-assisted%20Genetic%20Programming%20Algorithm%20for%20Team%20Formation%20Problem%20Considering%20Person-Job%20Matching.pdf"> [pdf]</a></li>
 <li>Assessing Growth Potential of Careers in Occupational Mobility Network with Human Capital </li>
 <li>Data-driven dynamic pricing and inventory management of an omni-channel retailer in an uncertain demand environment </li>
