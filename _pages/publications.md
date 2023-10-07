@@ -17,7 +17,6 @@ If you need the PDF of any of the papers, please feel free to contact me.
 <li>Reinforcement Learning-assisted Evolutionary Algorithm: A Survey and Research Opportunities <a href="https://github.com/yanjiesong/yanjiesong.github.io/blob/master/files/Reinforcement%20Learning-assisted%20Evolutionary%20Algorithm%20A%20Survey.pdf"> [pdf] </a>	</li>
 <li>Identifying and prioritizing key factors for smart aviation development using the fuzzy best-worst method: A case from China </li>
 <li>A Reinforcement Learning-based Memetic Algorithm for Energy-Efficient Satellite Range Scheduling Problem </li>
-<li>Identifying and prioritizing key factors for smart aviation development using the fuzzy best-worst method: A case from China </li>
 <li>Impact of Allee and fear effect in a fractional-order predator-prey system with group defense and prey chemotaxis </li>
 <li>Container Shipping Contract Design under Financial Constraints and Default Risks </li>
 <li>A cooperative autonomous coverage path planning algorithm for maritime search and rescue of persons-in-water based on deep reinforcement learning </li>
