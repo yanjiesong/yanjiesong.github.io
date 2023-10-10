@@ -64,6 +64,7 @@ ul li { padding: 5px 0px; }
 <li> International Journal on Interactive Design and Manufacturing, Springer </li>
 <li> Production \& Manufacturing Research, Taylor & Francis </li>
 <li> Aerospace, MDPI </li>
+<li> Scientific Programming, Hindawi</li>
 </ol>
 
 
