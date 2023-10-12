@@ -10,6 +10,7 @@ redirect_from:
 
 News
 =====
+• 2023-10-12, The manuscript entitled Assessing Growth Potential of Careers with Occupational Mobility Network and Ensemble Framework" has been accepted by Engineering Applications of Artificial Intelligence. \
 • 2023-10-4, The manuscript entitled "When Architecture Meets RL+EA: A Hybrid Intelligent Optimization Approach for Selecting Combat Svstem-of-Svstems Architecture" has been accepted by Advanced Engineering Informatics. \
 • 2023-9-17, The manuscript entitled "Impact of Allee and fear effects in a fractional order prey-predator system with group defence and prey refuge" has been accepted by Chaos: An Interdisciplinary Journal of Nonlinear Science. \
 • 2023-9-11, The manuscript entitled "An improved heterogeneous graph convolutional network for job recommendation" has been accepted by Engineering Applications of Artificial Intelligence, <a href="https://github.com/yanjiesong/yanjiesong.github.io/blob/master/files/An%20improved%20heterogeneous%20graph%20convolutional%20network%20forjob%20recommendation.pdf"> [pdf].</a>\
