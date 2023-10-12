@@ -12,6 +12,7 @@ If you need the PDF of any of the papers, please feel free to contact me.
 
 **Journal Articles**
 <ol>
+<li> Huang, Y., Luo, A., Chen, T., Zhang, M., Ren, B., & <b>Song, Y.</b> (2023). When architecture meets RL+ EA: A hybrid intelligent optimization approach for selecting combat system-of-systems architecture. Advanced Engineering Informatics, 58, 102209.</li>
 <li> Wang, H., Yang, W., Li, J., Ou, J., <b>Song, Y.</b>, & Chen, Y. (2023). An improved heterogeneous graph convolutional network for job recommendation. Engineering Applications of Artificial Intelligence, 126, 107147.<a href="https://github.com/yanjiesong/yanjiesong.github.io/blob/master/files/An%20improved%20heterogeneous%20graph%20convolutional%20network%20forjob%20recommendation.pdf"> [pdf]</a></li>
 <li><b>Song, Y.</b>, Ou, J., Suganthan, P. N., Pedrycz, W., Yang, Q., & Xing, L. (2023). Learning Adaptive Genetic Algorithm for Earth Electromagnetic Satellite Scheduling. IEEE Transactions on Aerospace and Electronic Systems. <a href="https://github.com/yanjiesong/yanjiesong.github.io/blob/master/files/laga2023taes.pdf"> [pdf]</a></li>
 <li>Feng, Q., Zhang, Y., Sun, B., Guo, X., Fan, D., Ren, Y., <b>Song, Y.</b>, Wang, Z. (2023). Multi-level predictive maintenance of smart manufacturing systems driven by digital twin: A matheuristics approach. Journal of Manufacturing Systems, 68, 443-454. <a href="https://github.com/yanjiesong/yanjiesong.github.io/blob/master/files/Multi-level%20predictive%20maintenance%20of%20smart%20manufacturing%20systems%20driven%20by%20digital%20twin%20A%20matheuristics%20approach.pdf"> [pdf]</a></li>
@@ -82,7 +83,6 @@ If you need the PDF of any of the papers, please feel free to contact me.
 <li>Container Shipping Contract Design under Financial Constraints and Default Risks </li>
 <li>A cooperative autonomous coverage path planning algorithm for maritime search and rescue of persons-in-water based on deep reinforcement learning </li>
 <li>An Improved LAHC Algorithm for Human Resource Planning in Hierarchical Organization </li>
-<li>When Architecture Meets RL+EA: A Hybrid Intelligent Optimization Approach for Selecting Combat Svstem-of-Svstems Architecture </li>
 <li>A Reinforcement Learning-assisted Genetic Programming Algorithm for Team Formation Problem Considering Person-Job Matching <a href="https://github.com/yanjiesong/yanjiesong.github.io/blob/master/files/A%20Reinforcement%20Learning-assisted%20Genetic%20Programming%20Algorithm%20for%20Team%20Formation%20Problem%20Considering%20Person-Job%20Matching.pdf"> [pdf]</a></li>
 <li>Assessing Growth Potential of Careers in Occupational Mobility Network with Human Capital </li>
 <li>Data-driven dynamic pricing and inventory management of an omni-channel retailer in an uncertain demand environment </li>
