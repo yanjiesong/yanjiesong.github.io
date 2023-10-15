@@ -6,6 +6,7 @@ author_profile: true
 ul li { padding: 5px 0px; }
 ---
 <ol>
+<li> Best Paper Award for The International Conference on Mathematical Analysis, Applications and Computational Simulation, 2023.</li>
 <li>Second Prize for The 4th incoPat New Technology Retrieval Contest "Future IP Experts"  Competition, 2022.</li>
 <li>Second Prize for CICC Science Advancement Award by China Command and Control Society, 2020.</li>
 <li>Third Prize for China Intelligent Simulation Optimization and Scheduling Conference, 2019.</li>
