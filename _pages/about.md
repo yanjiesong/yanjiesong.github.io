@@ -10,6 +10,7 @@ redirect_from:
 
 News
 =====
+• 2023-10-15, <span style="color: #FF0000">Best Paper Award</span>, our paper “<a target="_blank" href="https://pubs.aip.org/aip/cha/article/33/10/103113/2916179/Impact-of-Allee-and-fear-effects-in-a-fractional">Impact of Allee and fear effects in a fractional order prey-predator system with group defence and prey refuge</a>” won <a target="_blank" href="https://github.com/fangfang-zhang/fangfang-zhang.github.io/blob/master/files/BPA_GECCO.pdf">the Best Paper Award</a> of <i> The International Conference on Mathematical Analysis, Applications and Computational Simulation (ICMAACS) </i> 2023.
 • 2023-10-12, The manuscript entitled Assessing Growth Potential of Careers with Occupational Mobility Network and Ensemble Framework" has been accepted by Engineering Applications of Artificial Intelligence. \
 • 2023-10-4, The manuscript entitled "When Architecture Meets RL+EA: A Hybrid Intelligent Optimization Approach for Selecting Combat Svstem-of-Svstems Architecture" has been accepted by Advanced Engineering Informatics. <a href="https://github.com/yanjiesong/yanjiesong.github.io/blob/master/files/RL%2BEA.pdf"> [pdf].</a>\
 • 2023-9-17, The manuscript entitled "Impact of Allee and fear effects in a fractional order prey-predator system with group defence and prey refuge" has been accepted by Chaos: An Interdisciplinary Journal of Nonlinear Science. \
