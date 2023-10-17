@@ -39,6 +39,7 @@ Collaborators
 Prof. Witold Pedrycz, University of Alberta, Canda \
 Prof. P. N. Suganthan, Nanyang Technological University, Singapore \
 Prof. Duc Truong Pham, University of Birmingham, UK \
+Prof. Andries Engelbrecht, Stellenbosch University \
 Prof. Ling Wang, Tsinghua University, China \
 Prof. Rui Wang, National University of Defense Technology, China \
 Prof. Ke Tang, Southern University of Science and Technology, China \
