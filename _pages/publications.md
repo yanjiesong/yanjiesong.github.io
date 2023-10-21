@@ -12,6 +12,7 @@ If you need the PDF of any of the papers, please feel free to contact me.
 
 **Journal Articles**
 <ol>
+<li> Liu, J., Wang, T., Yao, F., Pedrycz, W., <b>Song, Y.</b>, & He, R. (2024). Assessing growth potential of careers with occupational mobility network and ensemble framework. Engineering Applications of Artificial Intelligence, 127, 107306.</li>
 <li> Huang, Y., Luo, A., Chen, T., Zhang, M., Ren, B., & <b>Song, Y.</b> (2023). When architecture meets RL+ EA: A hybrid intelligent optimization approach for selecting combat system-of-systems architecture. Advanced Engineering Informatics, 58, 102209.<a href="https://github.com/yanjiesong/yanjiesong.github.io/blob/master/files/RL%2BEA.pdf"> [pdf]</a></li>
 <li> Wang, H., Yang, W., Li, J., Ou, J., <b>Song, Y.</b>, & Chen, Y. (2023). An improved heterogeneous graph convolutional network for job recommendation. Engineering Applications of Artificial Intelligence, 126, 107147.<a href="https://github.com/yanjiesong/yanjiesong.github.io/blob/master/files/An%20improved%20heterogeneous%20graph%20convolutional%20network%20forjob%20recommendation.pdf"> [pdf]</a></li>
 <li><b>Song, Y.</b>, Ou, J., Suganthan, P. N., Pedrycz, W., Yang, Q., & Xing, L. (2023). Learning Adaptive Genetic Algorithm for Earth Electromagnetic Satellite Scheduling. IEEE Transactions on Aerospace and Electronic Systems. <a href="https://github.com/yanjiesong/yanjiesong.github.io/blob/master/files/laga2023taes.pdf"> [pdf]</a></li>
