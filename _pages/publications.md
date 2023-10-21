@@ -66,6 +66,8 @@ If you need the PDF of any of the papers, please feel free to contact me.
 
 **Patents**
 <ol>
+<li>Chinese Patent. Reinforcement Learning-based Two-layer Energy Storage Scheduling Model and Adaptive Optimization of Energy Storage Technology.</li>
+<li>Chinese Patent. UAV Maritime Search and Rescue Path Planning Using A Tuba-based Bees Algorithm.</li>
 <li>Chinese Patent. Cluster-based Satellite Measurement and Control Scheduling Method and System, Patent Pending Number: 2022104076790.</li>
 <li>Chinese Patent. Multi-satellite Joint Planning Method and System Considering Task Splitting, Patent Pending Number: 2022103947224.</li>
 <li>Chinese Patent. Imaging Satellite Autonomous Mission Planning Method based on Machine Learning, Patent Pending Number: 201910034280.0</li>
