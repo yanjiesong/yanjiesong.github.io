@@ -85,7 +85,7 @@ If you need the PDF of any of the papers, please feel free to contact me.
 <li>A cooperative autonomous coverage path planning algorithm for maritime search and rescue of persons-in-water based on deep reinforcement learning </li>
 <li>An Improved LAHC Algorithm for Human Resource Planning in Hierarchical Organization </li>
 <li>A Reinforcement Learning-assisted Genetic Programming Algorithm for Team Formation Problem Considering Person-Job Matching <a href="https://github.com/yanjiesong/yanjiesong.github.io/blob/master/files/A%20Reinforcement%20Learning-assisted%20Genetic%20Programming%20Algorithm%20for%20Team%20Formation%20Problem%20Considering%20Person-Job%20Matching.pdf"> [pdf]</a></li>
-<li>Assessing Growth Potential of Careers in Occupational Mobility Network with Human Capital </li>
+<li>Dynamic Multi-Objective Optimization Algorithm Guided by Recurrent Neural Network </li>
 <li>Data-driven dynamic pricing and inventory management of an omni-channel retailer in an uncertain demand environment </li>
 <li>Ensemble Reinforcement Learning: A Survey <a href="https://github.com/yanjiesong/yanjiesong.github.io/blob/master/files/Ensemble%20Reinforcement%20Learning%20A%20Survey.pdf"> [pdf]</a></li>
 <li>Generalized Model and Deep Reinforcement Learning Based Evolutionary Method for Multi-type Satellite Observation Scheduling </li>
