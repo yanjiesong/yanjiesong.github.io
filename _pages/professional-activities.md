@@ -66,6 +66,7 @@ ul li { padding: 5px 0px; }
 <li> Production & Manufacturing Research, Taylor & Francis </li>
 <li> Aerospace, MDPI </li>
 <li> Scientific Programming, Hindawi</li>
+<li>Remote Sensing, MDPI</li>
 </ol>
 
 
