@@ -26,6 +26,7 @@ ul li { padding: 5px 0px; }
 <ol>
 <li> IEEE Transactions on Systems, Man and Cybernetics: Systems, IEEE</li>
 <li>	Swarm and Evolutionary Computation, Elsevier </li>
+<li>  Acta Astronautica, Elsevier</li>
 <li>   Neural Networks, Elsevier</li>
 <li>   Complex & Intelligent Systems, Springer </li>
 <li> 	Expert Systems with Applications, Elsevier</li>
