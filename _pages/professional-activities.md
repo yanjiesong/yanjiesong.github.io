@@ -8,8 +8,9 @@ ul li { padding: 5px 0px; }
 
 **Editor**
 <ol>
+<li>Associate Editor, <a href="https://www.springer.com/journal/12008/editors"> International Journal on Interactive Design and Manufacturing</a> </li>
 <li>Associate Editor, <a href="https://zealpress.com/jms/index.php/ijrat/about/editorialTeam">International Journal of Robotics and Automation Technology</a></li>
-<li> Editorial Board Member, <a href="http://www.ecice06.com/CN/news/news6495.shtml"> Computer Engineering</a></li>
+<li> Editorial Board Member, <a href="http://www.ecice06.com/CN/news/news6495.shtml"> Computer Engineering (Chinese Journal)</a></li>
 <li> Guest Editor, <a href="https://www.frontiersin.org/research-topics/49193/application-of-intelligent-planning-algorithms-in-future-generation-satellite-systems">Application of Intelligent Planning Algorithms in Future Generation Satellite Systems</a>, Frontiers in Space Technologies </li>
 
 </ol>
@@ -25,6 +26,7 @@ ul li { padding: 5px 0px; }
 **Peer Reviewer for International Journals**
 <ol>
 <li> IEEE Transactions on Systems, Man and Cybernetics: Systems, IEEE</li>
+<li> IEEE Transactions on Intelligent Transportation Systems, IEEE</li>
 <li>	Swarm and Evolutionary Computation, Elsevier </li>
 <li>  Acta Astronautica, Elsevier</li>
 <li>   Neural Networks, Elsevier</li>
@@ -67,6 +69,7 @@ ul li { padding: 5px 0px; }
 <li> Aerospace, MDPI </li>
 <li> Scientific Programming, Hindawi</li>
 <li>Remote Sensing, MDPI</li>
+<li>SoftwareX</li>
 </ol>
 
 
