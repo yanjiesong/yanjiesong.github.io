@@ -12,6 +12,7 @@ If you need the PDF of any of the papers, please feel free to contact me.
 
 **Journal Articles**
 <ol>
+<li> Wu, J., Cheng, L., Chu, S., & <b>Song, Y</b>. (2024). An autonomous coverage path planning algorithm for maritime search and rescue of persons-in-water based on deep reinforcement learning. Ocean Engineering, 291, 116403.<a href="https://github.com/yanjiesong/yanjiesong.github.io/blob/master/files/Ensemble%20reinforcement%20learning.pdf"> [pdf]</a></li>
 <li><b>Song, Y.</b>, Suganthan, P. N., Pedrycz, W., Ou, J., He, Y., Chen, Y., & Wu, Y. (2023). Ensemble reinforcement learning: A survey. Applied Soft Computing, 110975.<a href="https://github.com/yanjiesong/yanjiesong.github.io/blob/master/files/Ensemble%20reinforcement%20learning.pdf"> [pdf]</a></li>
 <li> Liu, J., Wang, T., Yao, F., Pedrycz, W., <b>Song, Y.*</b>, & He, R. (2024). Assessing growth potential of careers with occupational mobility network and ensemble framework. Engineering Applications of Artificial Intelligence, 127, 107306.<a href="https://github.com/yanjiesong/yanjiesong.github.io/blob/master/files/accessing2023.pdf"> [pdf]</a></li>
 <li> Huang, Y., Luo, A., Chen, T., Zhang, M., Ren, B., & <b>Song, Y.</b> (2023). When architecture meets RL+ EA: A hybrid intelligent optimization approach for selecting combat system-of-systems architecture. Advanced Engineering Informatics, 58, 102209.<a href="https://github.com/yanjiesong/yanjiesong.github.io/blob/master/files/RL%2BEA.pdf"> [pdf]</a></li>
@@ -84,14 +85,11 @@ If you need the PDF of any of the papers, please feel free to contact me.
 <li>Reinforcement Learning-assisted Evolutionary Algorithm: A Survey and Research Opportunities <a href="https://github.com/yanjiesong/yanjiesong.github.io/blob/master/files/Reinforcement%20Learning-assisted%20Evolutionary%20Algorithm%20A%20Survey.pdf"> [pdf] </a>	</li>
 <li>Identifying and prioritizing key factors for smart aviation development using the fuzzy best-worst method: A case from China </li>
 <li>A Reinforcement Learning-based Memetic Algorithm for Energy-Efficient Satellite Range Scheduling Problem </li>
-<li>Impact of Allee and fear effect in a fractional-order predator-prey system with group defense and prey chemotaxis </li>
 <li>Container Shipping Contract Design under Financial Constraints and Default Risks </li>
-<li>A cooperative autonomous coverage path planning algorithm for maritime search and rescue of persons-in-water based on deep reinforcement learning </li>
 <li>An Improved LAHC Algorithm for Human Resource Planning in Hierarchical Organization </li>
 <li>A Reinforcement Learning-assisted Genetic Programming Algorithm for Team Formation Problem Considering Person-Job Matching <a href="https://github.com/yanjiesong/yanjiesong.github.io/blob/master/files/A%20Reinforcement%20Learning-assisted%20Genetic%20Programming%20Algorithm%20for%20Team%20Formation%20Problem%20Considering%20Person-Job%20Matching.pdf"> [pdf]</a></li>
 <li>Dynamic Multi-Objective Optimization Algorithm Guided by Recurrent Neural Network </li>
 <li>Data-driven dynamic pricing and inventory management of an omni-channel retailer in an uncertain demand environment </li>
-<li>Ensemble Reinforcement Learning: A Survey <a href="https://github.com/yanjiesong/yanjiesong.github.io/blob/master/files/Ensemble%20Reinforcement%20Learning%20A%20Survey.pdf"> [pdf]</a></li>
 <li>Generalized Model and Deep Reinforcement Learning Based Evolutionary Method for Multi-type Satellite Observation Scheduling </li>
 <li>Knowledge-Transfer Based Genetic Programming Algorithm for Multi-Objective Dynamic Agile Earth Observation Satellite Scheduling Problem </li>
 </ol>
