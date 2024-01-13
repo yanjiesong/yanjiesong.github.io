@@ -69,7 +69,8 @@ ul li { padding: 5px 0px; }
 <li> Aerospace, MDPI </li>
 <li> Scientific Programming, Hindawi</li>
 <li>Remote Sensing, MDPI</li>
-<li>SoftwareX</li>
+<li>SoftwareX, Elsevier</li>
+<li>Atmosphere, MDPI</li>
 </ol>
 
 
