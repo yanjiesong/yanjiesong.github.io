@@ -8,6 +8,7 @@ ul li { padding: 5px 0px; }
 
 **Editor**
 <ol>
+<li> Guest Editor, <a href="https://www.sciencedirect.com/journal/swarm-and-evolutionary-computation/about/call-for-papers#integration-method-of-reinforcement-learning-and-evolutionary-algorithm-approaches-and-applications">Integration Method of Reinforcement Learning and Evolutionary Algorithm: Approaches and Applications</a>, Swarm and Evolutionary Computation </li>
 <li>Associate Editor, <a href="https://www.springer.com/journal/12008/editors"> International Journal on Interactive Design and Manufacturing</a> </li>
 <li>Associate Editor, <a href="https://zealpress.com/jms/index.php/ijrat/about/editorialTeam">International Journal of Robotics and Automation Technology</a></li>
 <li> Editorial Board Member, <a href="http://www.ecice06.com/CN/news/news6495.shtml"> Computer Engineering (Chinese Journal)</a></li>
