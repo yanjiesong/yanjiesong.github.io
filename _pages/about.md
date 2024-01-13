@@ -10,6 +10,7 @@ redirect_from:
 
 News
 =====
+• 2023-12-16, The manuscript entitled "Generalized Model and Deep Reinforcement Learning Based Evolutionary Method for Multi-type Satellite Observation Scheduling" has been accepted by IEEE Transactions on Systems, Man, and Cybernetics: Systems. \
 • 2023-12-13, The manuscript entitled "Data-driven dynamic pricing and inventory management of an omni-channel retailer in an uncertain demand environment" has been accepted by Expert Systems With Applications. \
 • 2023-11-18, The manuscript entitled "An Autonomous Coverage Path Planning Algorithm for Maritime Search and Rescue of Persons-in-Water Based on Deep Reinforcement Learning" has been accepted by Ocean Engineering. \
 • 2023-10-23, The survey entitled "Ensemble Reinforcement Learning: A Survey" has been accepted by Applied Soft Computing Journal. \
