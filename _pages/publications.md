@@ -93,8 +93,5 @@ If you need the PDF of any of the papers, please feel free to contact me.
 <li>Container Shipping Contract Design under Financial Constraints and Default Risks </li>
 <li>A Reinforcement Learning-assisted Genetic Programming Algorithm for Team Formation Problem Considering Person-Job Matching <a href="https://github.com/yanjiesong/yanjiesong.github.io/blob/master/files/A%20Reinforcement%20Learning-assisted%20Genetic%20Programming%20Algorithm%20for%20Team%20Formation%20Problem%20Considering%20Person-Job%20Matching.pdf"> [pdf]</a></li>
 <li>Dynamic Multi-Objective Optimization Algorithm Guided by Recurrent Neural Network </li>
-<li>Data-driven dynamic pricing and inventory management of an omni-channel retailer in an uncertain demand environment </li>
-<li>Generalized Model and Deep Reinforcement Learning Based Evolutionary Method for Multi-type Satellite Observation Scheduling </li>
-<li>Knowledge-Transfer Based Genetic Programming Algorithm for Multi-Objective Dynamic Agile Earth Observation Satellite Scheduling Problem </li>
 </ol>
 
