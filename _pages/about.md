@@ -10,6 +10,7 @@ redirect_from:
 
 News
 =====
+• 2024-02-19, The survey entitled "Reinforcement Learning-assisted Evolutionary Algorithm: A Survey and Research Opportunities  " has been accepted by Swarm and Evolutionary Computation. \
 • 2023-12-16, The manuscript entitled "Generalized Model and Deep Reinforcement Learning Based Evolutionary Method for Multi-type Satellite Observation Scheduling" has been accepted by IEEE Transactions on Systems, Man, and Cybernetics: Systems. \
 • 2023-12-13, The manuscript entitled "Data-driven dynamic pricing and inventory management of an omni-channel retailer in an uncertain demand environment" has been accepted by Expert Systems With Applications. \
 • 2023-11-18, The manuscript entitled "An Autonomous Coverage Path Planning Algorithm for Maritime Search and Rescue of Persons-in-Water Based on Deep Reinforcement Learning" has been accepted by Ocean Engineering. \
