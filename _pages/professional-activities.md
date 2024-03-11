@@ -28,6 +28,9 @@ ul li { padding: 5px 0px; }
 <ol>
 <li> IEEE Transactions on Systems, Man and Cybernetics: Systems, IEEE</li>
 <li> IEEE Transactions on Intelligent Transportation Systems, IEEE</li>
+<li> IEEE Transactions on Computational Social Systems, IEEE</li>
+<li> IEEE Robotics and Automation Letters, IEEE</li>
+<li> IEEE Consumer Electronics Magazine, IEEE</li>
 <li>	Swarm and Evolutionary Computation, Elsevier </li>
 <li>  Acta Astronautica, Elsevier</li>
 <li>   Neural Networks, Elsevier</li>
@@ -72,13 +75,16 @@ ul li { padding: 5px 0px; }
 <li>Remote Sensing, MDPI</li>
 <li>SoftwareX, Elsevier</li>
 <li>Atmosphere, MDPI</li>
+<li>Applied Computing and Informatics, Emerald Publishing</li>
+<li> Franklin Open, Elsevier</li>
 </ol>
 
 
 **Program Committee Member for International Conferences**
 <ol>
-<li>IEEE International Conference in Data Mining (ICDM), 2022 </li>
-<li>IEEE Congress on Evolutionary Computation (CEC), 2023 </li>
+<li>IEEE International Joint Conference on Neural Networks (IJCNN), 2024</li>
+<li>IEEE International Conference in Data Mining (ICDM), 2022, 2023 </li>
+<li>IEEE Congress on Evolutionary Computation (CEC), 2023, 2024 </li>
 <li>International Workshop on the Bees Algorithm and its Applications (BAA), 2023 </li>
 <li>IEEE International Conference in Data Mining (ICDM), 2023 </li>
 </ol>
