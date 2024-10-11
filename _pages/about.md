@@ -10,6 +10,7 @@ redirect_from:
 
 News
 =====
+• 2024-09-26, The manuscript entitled "A Strategy Fusion-Based Multi-Objective Optimization Approach for Agile Earth Observation Satellite Scheduling Problem" has been accepted by IEEE Transactions on Geoscience and Remote Sensing. \
 • 2024-02-25, The manuscript entitled "Energy-Efficient Satellite Range Scheduling Using A Reinforcement Learning-based Memetic Algorithm" has been accepted by IEEE Transactions on Aerospace and Electronic Systems. \
 • 2024-02-19, The survey entitled "Reinforcement Learning-assisted Evolutionary Algorithm: A Survey and Research Opportunities  " has been accepted by Swarm and Evolutionary Computation. \
 • 2023-12-16, The manuscript entitled "Generalized Model and Deep Reinforcement Learning Based Evolutionary Method for Multi-type Satellite Observation Scheduling" has been accepted by IEEE Transactions on Systems, Man, and Cybernetics: Systems. \
