@@ -10,6 +10,7 @@ redirect_from:
 
 News
 =====
+• 2024-10-11, The manuscript entitled "A Meta-heuristic Algorithm Combined with Deep Reinforcement Learning for Multi-sensor Positioning Layout Problem in Complex Environment" has been accepted by Expert Systems With Applications. \
 • 2024-09-26, The manuscript entitled "A Strategy Fusion-Based Multi-Objective Optimization Approach for Agile Earth Observation Satellite Scheduling Problem" has been accepted by IEEE Transactions on Geoscience and Remote Sensing. \
 • 2024-02-25, The manuscript entitled "Energy-Efficient Satellite Range Scheduling Using A Reinforcement Learning-based Memetic Algorithm" has been accepted by IEEE Transactions on Aerospace and Electronic Systems. \
 • 2024-02-19, The survey entitled "Reinforcement Learning-assisted Evolutionary Algorithm: A Survey and Research Opportunities  " has been accepted by Swarm and Evolutionary Computation. \
