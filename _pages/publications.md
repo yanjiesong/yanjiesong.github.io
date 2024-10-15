@@ -12,6 +12,12 @@ If you need the PDF of any of the papers, please feel free to contact me.
 
 **Journal Articles**
 <ol>
+<li><b>Song, Y.</b>, Wu, Y., Guo, Y., Yan, R., Suganthan, P. N., Zhang, Y., ... & Feng, Q. (2024). Reinforcement learning-assisted evolutionary algorithm: A survey and research opportunities. Swarm and Evolutionary Computation, 86, 101517.
+</li>
+<li>Pham, D., <b>Song, Y.</b>, Laili, Y., Ismail, A., Hartono, N., Packianather, M., & Castellani, M. (2024). The Bees Algorithm and Its Applications in Production and Manufacturing. International Journal of Advances in Production Research, 1(1), 1-10.</li>
+<li>Lu, W., Gao, W., Liu, B., Niu, W., Peng, X., Yang, Z., & <b>Song, Y.</b> (2024). Parallel dual adaptive genetic algorithm: A method for satellite constellation task assignment in time-sensitive target tracking. Advances in Space Research.</li>
+<li>Xu, Y., Jiang, X., Li, J., Xing, L., & <b>Song, Y.</b> (2024). A knowledge-driven memetic algorithm for the energy-efficient distributed homogeneous flow shop scheduling problem. Swarm and Evolutionary Computation, 89, 101625.</li>
+<li>Zhan, H., Zhang, Y., Huang, J., <b>Song, Y.*</b>, Xing, L., Wu, J., & Gao, Z. (2024). A reinforcement learning-based evolutionary algorithm for the unmanned aerial vehicles maritime search and rescue path planning problem considering multiple rescue centers. Memetic Computing, 1-14.</li>
 <li><b>Song, Y.</b>, Ou, J., Pedrycz, W., Suganthan, P. N., Wang, X., Xing, L., & Zhang, Y. (2024). Generalized Model and Deep Reinforcement Learning-Based Evolutionary Method for Multitype Satellite Observation Scheduling. IEEE Transactions on Systems, Man, and Cybernetics: Systems.<a href="https://github.com/yanjiesong/yanjiesong.github.io/blob/master/files/DRL-GA.pdf"> [pdf]</a></li>
 <li>Wei, L., Chen, M., Xing, L., Wan, Q., <b>Song, Y.</b>, Chen, Y., & Chen, Y. (2024). Knowledge-transfer based genetic programming algorithm for multi-objective dynamic agile earth observation satellite scheduling problem. Swarm and Evolutionary Computation, 101460.<a href="https://github.com/yanjiesong/yanjiesong.github.io/blob/master/files/ktgp.pdf"> [pdf]</a></li>
 <li>Huang, J., Li, J., Du, Y., <b>Song, Y.</b>, Wu, J., Yao, F., & Wang, P. (2023). Research of a Multi-Level Organization Human Resource Network Optimization Model and an Improved Late Acceptance Hill Climbing Algorithm. Mathematics, 11(23), 4813.<a href="https://github.com/yanjiesong/yanjiesong.github.io/blob/master/files/mathematics2023.pdf"> [pdf]</a></li>
@@ -87,11 +93,9 @@ If you need the PDF of any of the papers, please feel free to contact me.
 <ol>
 <li>A Reinforcement learning-based two-layer Adaptive Optimization Method for User-side Energy Storage Scheduling Problem </li>
 <li>Multi-Objective Flexible Job Shop Scheduling via Preference-Conditioned Graph Reinforcement Learning </li>
-<li>Reinforcement Learning-assisted Evolutionary Algorithm: A Survey and Research Opportunities <a href="https://github.com/yanjiesong/yanjiesong.github.io/blob/master/files/Reinforcement%20Learning-assisted%20Evolutionary%20Algorithm%20A%20Survey.pdf"> [pdf] </a>	</li>
 <li>Identifying and prioritizing key factors for smart aviation development using the fuzzy best-worst method: A case from China </li>
 <li>A Reinforcement Learning-based Memetic Algorithm for Energy-Efficient Satellite Range Scheduling Problem </li>
 <li>Container Shipping Contract Design under Financial Constraints and Default Risks </li>
 <li>A Reinforcement Learning-assisted Genetic Programming Algorithm for Team Formation Problem Considering Person-Job Matching <a href="https://github.com/yanjiesong/yanjiesong.github.io/blob/master/files/A%20Reinforcement%20Learning-assisted%20Genetic%20Programming%20Algorithm%20for%20Team%20Formation%20Problem%20Considering%20Person-Job%20Matching.pdf"> [pdf]</a></li>
-<li>Dynamic Multi-Objective Optimization Algorithm Guided by Recurrent Neural Network </li>
 </ol>
 
