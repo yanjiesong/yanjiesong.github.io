@@ -12,6 +12,9 @@ If you need the PDF of any of the papers, please feel free to contact me.
 
 **Journal Articles**
 <ol>
+<li>Wang, H., Huang, W., Magnússon, S., Lindgren, T., Wang, R., & <b>Song, Y.</b> (2024). A Strategy Fusion-Based Multi-Objective Optimization Approach for Agile Earth Observation Satellite Scheduling Problem. IEEE Transactions on Geoscience and Remote Sensing.</li>
+<li>Hu, Y., Ou, J., Suganthan, P. N., Pedrycz, W., Wang, R., Zheng, J., ... & <b>Song, Y.*</b> (2024). Dynamic Multi-Objective Optimization Algorithm Guided by Recurrent Neural Network. IEEE Transactions on Evolutionary Computation.</li>
+<li><b>Song, Y.</b>, Suganthan, P. N., Pedrycz, W., Yan, R., Fan, D., & Zhang, Y. (2024). Energy-Efficient Satellite Range Scheduling Using A Reinforcement Learning-based Memetic Algorithm. IEEE Transactions on Aerospace and Electronic Systems.</li>
 <li><b>Song, Y.</b>, Wu, Y., Guo, Y., Yan, R., Suganthan, P. N., Zhang, Y., ... & Feng, Q. (2024). Reinforcement learning-assisted evolutionary algorithm: A survey and research opportunities. Swarm and Evolutionary Computation, 86, 101517.
 </li>
 <li>Pham, D., <b>Song, Y.</b>, Laili, Y., Ismail, A., Hartono, N., Packianather, M., & Castellani, M. (2024). The Bees Algorithm and Its Applications in Production and Manufacturing. International Journal of Advances in Production Research, 1(1), 1-10.</li>
@@ -94,7 +97,6 @@ If you need the PDF of any of the papers, please feel free to contact me.
 <li>A Reinforcement learning-based two-layer Adaptive Optimization Method for User-side Energy Storage Scheduling Problem </li>
 <li>Multi-Objective Flexible Job Shop Scheduling via Preference-Conditioned Graph Reinforcement Learning </li>
 <li>Identifying and prioritizing key factors for smart aviation development using the fuzzy best-worst method: A case from China </li>
-<li>A Reinforcement Learning-based Memetic Algorithm for Energy-Efficient Satellite Range Scheduling Problem </li>
 <li>Container Shipping Contract Design under Financial Constraints and Default Risks </li>
 <li>A Reinforcement Learning-assisted Genetic Programming Algorithm for Team Formation Problem Considering Person-Job Matching <a href="https://github.com/yanjiesong/yanjiesong.github.io/blob/master/files/A%20Reinforcement%20Learning-assisted%20Genetic%20Programming%20Algorithm%20for%20Team%20Formation%20Problem%20Considering%20Person-Job%20Matching.pdf"> [pdf]</a></li>
 </ol>
