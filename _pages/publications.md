@@ -68,6 +68,7 @@ If you need the PDF of any of the papers, please feel free to contact me.
 
 **Conference Papers**
 <ol>
+<li>Yang, Q., Song, B., Tang, S., <b>Song, Y.</b>, & Chen, Y. (2023, September). Autonomous Target Revisiting Planning for LEO Observing Constellations Based on Improved Contract Network Protocol. In 2023 5th International Symposium on Robotics & Intelligent Manufacturing Technology (ISRIMT) (pp. 184-191). IEEE.</li>
 <li>Huang, Y., Luo, A., Zhang, M., Bai, L., <b>Song, Y.</b>, & Li, J. (2023, April). Task Location Distribution Based Genetic Algorithm for UAV Mobile Crowd Sensing. In Bio-Inspired Computing: Theories and Applications: 17th International Conference, BIC-TA 2022, Wuhan, China, December 16–18, 2022, Revised Selected Papers (pp. 165-178). Singapore: Springer Nature Singapore.</li>
 <li><b>Song, Y. J.</b>, Ou, J. W., Pham, D. T., Li, J. T., Huang, J. B., & Xing, L. N. (2023, April). A Reinforcement-Learning-Driven Bees Algorithm for Large-Scale Earth Observation Satellite Scheduling. In Bio-Inspired Computing: Theories and Applications: 17th International Conference, BIC-TA 2022, Wuhan, China, December 16–18, 2022, Revised Selected Papers (pp. 81-91). Singapore: Springer Nature Singapore.</li>
 <li>Wang, H., Li, J., <b>Song, Y.</b>, Huang, J., Li, J., & Chen, Y. (2022, December). An Improved Genetic Algorithm for Team Formation Problem. In 2022 IEEE Symposium Series on Computational Intelligence (SSCI) (pp. 774-781). IEEE.</li>
