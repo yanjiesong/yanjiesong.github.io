@@ -12,7 +12,8 @@ If you need the PDF of any of the papers, please feel free to contact me.
 
 **Journal Articles**
 <ol>
-  <li>Ning, Y., Bai, Z., Wei, J., Suganthan, P. N., Xing, L., Wang, J., & <b>Song, Y*</b>. (2025). A meta-heuristic algorithm combined with deep reinforcement learning for multi-sensor positioning layout problem in complex environment. Expert Systems with Applications, 261, 125555.</li>
+<li>Ning, Y., Bai, Z., Wei, J., Suganthan, P. N., Xing, L., Wang, J., & <b>Song, Y*</b>. (2025). A meta-heuristic algorithm combined with deep reinforcement learning for multi-sensor positioning layout problem in complex environment. Expert Systems with Applications, 261, 125555.</li>
+<li>Yan, Z., Zhao, H., Liang, S., Li, L., & <b>Song, Y.>\</b> (2024). Inter-layer feedback mechanism with reinforcement learning boosts the evolution of cooperation in multilayer network. Chaos, Solitons & Fractals, 185, 115095.</li>
 <li>Wang, H., Huang, W., Magnússon, S., Lindgren, T., Wang, R., & <b>Song, Y.</b> (2024). A Strategy Fusion-Based Multi-Objective Optimization Approach for Agile Earth Observation Satellite Scheduling Problem. IEEE Transactions on Geoscience and Remote Sensing.</li>
 <li>Hu, Y., Ou, J., Suganthan, P. N., Pedrycz, W., Wang, R., Zheng, J., ... & <b>Song, Y.*</b> (2024). Dynamic Multi-Objective Optimization Algorithm Guided by Recurrent Neural Network. IEEE Transactions on Evolutionary Computation.</li>
 <li><b>Song, Y.</b>, Suganthan, P. N., Pedrycz, W., Yan, R., Fan, D., & Zhang, Y. (2024). Energy-Efficient Satellite Range Scheduling Using A Reinforcement Learning-based Memetic Algorithm. IEEE Transactions on Aerospace and Electronic Systems.</li>
