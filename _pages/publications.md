@@ -60,7 +60,7 @@ If you need the PDF of any of the papers, please feel free to contact me.
 **Book Chapters**
 <ol>
 <li>Bees Algorithm with Adaptive Operator Selection Mechanism for Generalised Multi-dimensional Multi-choice Knapsack Problem (Forthcoming)</li>
-<li>Guo, Y., <b>Song, Y.*</b>, Li, J., Ou, J., Xing, L., & Zhang, Y. (2025). A Tabu-Based Bees Algorithm for Unmanned Aerial Vehicles in Maritime Search and Rescue Path Planning. Intelligent Engineering Optimisation with the Bees Algorithm, 353-365.</li>
+<li>Guo, Y., <b>Song, Y.*</b>, Li, J., Ou, J., Xing, L., & Zhang, Y. (2025). A Tabu-Based Bees Algorithm for Unmanned Aerial Vehicles in Maritime Search and Rescue Path Planning. Intelligent Engineering Optimisation with the Bees Algorithm, 353-365. Cham: Springer Nature Switzerland.</li>
 <li><b>Song, Y.</b>, Guo, Y., Li, J., Wu, J., Yang, Q., & Chen, Y. (2025). A Knowledge Transfer-Based Bees Algorithm for Expert Team Formation Problem in Internet Company. In Intelligent Engineering Optimisation with the Bees Algorithm, 305-316. Cham: Springer Nature Switzerland.</li>
 <li><b>Song, Y.</b>, Xing, L., Chen, Y. (2022). Application of the Dual-population Bees Algorithm in a Parallel Machine Scheduling Problem with a Time Window, Intelligent Production and Manufacturing Optimisation—The Bees Algorithm Approach. Editor: Duc Truong Pham, Natalia Hartono</li>
 </ol>
