@@ -12,11 +12,19 @@ If you need the PDF of any of the papers, please feel free to contact me.
 
 **Journal Articles**
 <ol>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>Wang, H., Huang, W., Magnússon, S., Lindgren, T., Chen, C., Wu, J., & <b>Song, Y</b>. (2025). Crowding distance and IGD-driven grey wolf reinforcement learning approach for multi-objective agile earth observation satellite scheduling. International Journal of Digital Earth, 18(1), 2458024.</li>
+<li>Tian, M., Cui, M., Yu, S., Chen, Zhimin, & <b>Song, Y.</b>. (2025). SCDF-YOLOv11: Selection and compensation detailed feature integration network for UAV detection. Chinese Journal of Aeronautics, 103998.</li>
+<li>Jin, G., Li, X., Guan, S., <b>Song, Y.</b>, Hao, X., & Zhang, J. (2025). Exploring to predict the tipping points in traffic flow: A lightweight spatio-temporal information-enhanced neural point process approach. Physica A: Statistical Mechanics and its Applications, 131122.</li>
+<li>Chen, J., Chen, Y., Pham, D. T., <b>Song, Y.</b>, Wu, J., Xing, L., & Chen, Y. (2025). A Large Language Model-based Multi-Agent Framework to Autonomously Design Algorithms for Earth Observation Satellite Scheduling Problem. Engineering.</li>
+<li>Hu, Y., Xia, J., Ou, J., <b>Song, Y.</b>, Li, J., Zheng, J., ... & Zhang, Y. (2025). A multi-population co-evolutionary algorithm based on dual-space division for dynamic multi-objective optimization problems. Information Sciences, 122712.</li>
+<li>Lu, W., Liu, B., Mu, Z., Wu, S., <b>Song, Y.</b>, & Razoumny, V. Y. (2025). Multi-Satellite Scheduling for Stereo Tracking of Moving Targets via Parallel Island Differential Evolutionary Algorithm. IEEE Transactions on Aerospace and Electronic Systems.</li>
+<li>Haoyang, C., <b>Yanjie, S.</b>, Lang, X., & Ran, Y. (2025). Identifying ship deficiency patterns in port state control: an association rule mining-based analysis framework. Maritime Policy & Management, 1-26.</li>
+<li>Zhang, Y., <b>Song, Y.</b>, Ren, Y., Xing, L., Feng, Q., Xiang, R., ... & Pedrycz, W. (2025). Can Large Language Models Solve Complex Engineering Issues? Practical Applications in Reliability Systems Engineering. Engineering.</li>
+<li>Hu, Y., Zheng, Z., Ou, J., <b>Song, Y.</b>, Zheng, J., Zou, J., ... & Yang, S. (2025). A learning algorithm based on similarity identification and knowledge transfer for dynamic multi-objective optimization. IEEE Transactions on Evolutionary Computation.</li>
+<li>Guo, Y., Wang, H., He, L., Pedrycz, W., Suganthan, P. N., Xing, L., & <b>Song, Y*</b>. (2025). A reinforcement learning-assisted genetic programming algorithm for team formation problem considering person-job matching. Neurocomputing, 130917.</li>
+<li>Zhang, Y., Feng, Q., Fan, D., Ren, Y., <b>Song, Y., Liu, M., & Wang, Z. (2025). Predictive control for operation and maintenance in smart manufacturing systems with multiple operating modes. Computers & Industrial Engineering, 207, 111196.</li>
+<li>Ren, Y., Li, Q., Guo, Y., Pedrycz, W., Xing, L., Liu, A., & <b>Song, Y</b>. (2025). A distance similarity-based genetic optimization algorithm for satellite ground network planning considering feeding mode. Expert Systems with Applications, 268, 126303.</li>
+<li>Yao, W., Shen, X., Zhang, G., Lu, Z., Wang, J., <b>Song, Y.</b>, & Li, Z. (2025). A spiking neural network based proximal policy optimization method for multi-point imaging mission scheduling of earth observation satellite. Swarm and Evolutionary Computation, 94, 101867.</li>
 <li>Wu, J., Wang, Z., <b>Song, Y.</b> Zhou, X., & Cheng, L. (2025). A reinforcement learning-assisted search and rescue resource allocation decision-making approach for maritime emergencies. Computers & Industrial Engineering, 201, 110933.</li>
 <li>Jiang, X., Guo, Y., Zhang, Y., <b>Song, Y.</b> Pedrycz, W., & Xing, L. (2025). An evolutionary task scheduling algorithm using fuzzy fitness evaluation method for communication satellite network. Swarm and Evolutionary Computation, 92, 101830.</li>
 <li>Huang, W., Wang, H., Wu, J., Hou, H., Li, J., Li, Z., & <b>Song, Y</b>. (2025). A Reinforcement Learning-Enhanced Dung Beetle Optimization Approach for Agile Earth Observation Satellite Scheduling. IEEE Geoscience and Remote Sensing Letters.</li>
