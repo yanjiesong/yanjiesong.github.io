@@ -11,7 +11,7 @@ redirect_from:
 News
 =====
 • 2025-12-5, The manuscript entitled "LLM-assisted Adaptive Large Neighborhood Search for AEOS Scheduling" has been accepted by Frontiers of Engineering Management. \
-• 2025-9-30, The manuscript entitled "Multi-Satellite Scheduling for Stereo Tracking of Moving Targets via Parallel Island Differential Evolutionary Algorithm" has been accepted by IEEE Transactions on Aerospace and Electronic Systems. \ 
+• 2025-9-30, The manuscript entitled "Multi-Satellite Scheduling for Stereo Tracking of Moving Targets via Parallel Island Differential Evolutionary Algorithm" has been accepted by IEEE Transactions on Aerospace and Electronic Systems. \
 • 2025-8-2, The manuscript entitled "A learning algorithm based on similarity identification and knowledge transfer for dynamic multi-objective optimization" has been accepted by IEEE Transactions on Evolutionary Computation. \
 • 2024-12-20, The manuscript entitled "An Evolutionary Task Scheduling Algorithm Using Fuzzy Fitness Evaluation Method for Communication Satellite Network" has been accepted by Swarm and Evolutionary Computation. \
 • 2024-11-15, One SWEVO survey was selected as the Highly Cited Paper in Web of Science. \
