@@ -10,6 +10,7 @@ redirect_from:
 
 News
 =====
+• 2025-12-5, The manuscript entitled "LLM-assisted Adaptive Large Neighborhood Search for AEOS Scheduling" has been accepted by Frontiers of Engineering Management. \
 • 2024-12-20, The manuscript entitled "An Evolutionary Task Scheduling Algorithm Using Fuzzy Fitness Evaluation Method for Communication Satellite Network" has been accepted by Swarm and Evolutionary Computation. \
 • 2024-11-15, One SWEVO survey was selected as the Highly Cited Paper in Web of Science. \
 • 2024-11-15, One SWEVO paper was selected as the Highly Cited Paper in Web of Science. \
@@ -17,18 +18,7 @@ News
 • 2024-09-26, The manuscript entitled "A Strategy Fusion-Based Multi-Objective Optimization Approach for Agile Earth Observation Satellite Scheduling Problem" has been accepted by IEEE Transactions on Geoscience and Remote Sensing. \
 • 2024-02-25, The manuscript entitled "Energy-Efficient Satellite Range Scheduling Using A Reinforcement Learning-based Memetic Algorithm" has been accepted by IEEE Transactions on Aerospace and Electronic Systems. \
 • 2024-02-19, The survey entitled "Reinforcement Learning-assisted Evolutionary Algorithm: A Survey and Research Opportunities  " has been accepted by Swarm and Evolutionary Computation. \
-• 2023-12-16, The manuscript entitled "Generalized Model and Deep Reinforcement Learning Based Evolutionary Method for Multi-type Satellite Observation Scheduling" has been accepted by IEEE Transactions on Systems, Man, and Cybernetics: Systems. \
-• 2023-12-13, The manuscript entitled "Data-driven dynamic pricing and inventory management of an omni-channel retailer in an uncertain demand environment" has been accepted by Expert Systems With Applications. \
-• 2023-11-18, The manuscript entitled "An Autonomous Coverage Path Planning Algorithm for Maritime Search and Rescue of Persons-in-Water Based on Deep Reinforcement Learning" has been accepted by Ocean Engineering. \
-• 2023-10-23, The survey entitled "Ensemble Reinforcement Learning: A Survey" has been accepted by Applied Soft Computing Journal. \
-• 2023-10-16, The Special Issue Proposal has been accepted by <i> SWEVO. </i> <a href="https://www.sciencedirect.com/journal/swarm-and-evolutionary-computation/about/call-for-papers#integration-method-of-reinforcement-learning-and-evolutionary-algorithm-approaches-and-applications"> [website] </a> \
-• 2023-10-15, <span style="color: #FF0000">Best Paper Award</span>, our paper “<a target="_blank" href="https://pubs.aip.org/aip/cha/article/33/10/103113/2916179/Impact-of-Allee-and-fear-effects-in-a-fractional">Impact of Allee and fear effects in a fractional order prey-predator system with group defence and prey refuge</a>” won <a target="_blank" href="https://github.com/yanjiesong/yanjiesong.github.io/blob/master/files/chaos2023.pdf">the Best Paper Award</a> of <i> The International Conference on Mathematical Analysis, Applications and Computational Simulation (ICMAACS) </i> 2023. \
-• 2023-10-12, The manuscript entitled "Assessing Growth Potential of Careers with Occupational Mobility Network and Ensemble Framework" has been accepted by Engineering Applications of Artificial Intelligence. \
-• 2023-10-4, The manuscript entitled "When Architecture Meets RL+EA: A Hybrid Intelligent Optimization Approach for Selecting Combat Svstem-of-Svstems Architecture" has been accepted by Advanced Engineering Informatics. <a href="https://github.com/yanjiesong/yanjiesong.github.io/blob/master/files/RL%2BEA.pdf"> [pdf].</a>\
-• 2023-9-17, The manuscript entitled "Impact of Allee and fear effects in a fractional order prey-predator system with group defence and prey refuge" has been accepted by Chaos: An Interdisciplinary Journal of Nonlinear Science. \
-• 2023-9-11, The manuscript entitled "An improved heterogeneous graph convolutional network for job recommendation" has been accepted by Engineering Applications of Artificial Intelligence, <a href="https://github.com/yanjiesong/yanjiesong.github.io/blob/master/files/An%20improved%20heterogeneous%20graph%20convolutional%20network%20forjob%20recommendation.pdf"> [pdf].</a>\
-• 2023-9-4, The manuscript entitled "Learning Adaptive Genetic Algorithm for Earth Electromagnetic Satellite Scheduling" has been accepted by IEEE Trans. on Aerospace and Electronic Systems, <a href="https://github.com/yanjiesong/yanjiesong.github.io/blob/master/files/laga2023taes.pdf"> [LAGA].</a>\
-• 2023-9-3, A survey on reinforcement learning-assisted evolutionary algorithm has been released in arXiv and submitted to the SWEVO, <a href="https://arxiv.org/abs/2308.13420"> [A Survey on RL-EA] </a>.
+
 
 Research Interests
 =====
