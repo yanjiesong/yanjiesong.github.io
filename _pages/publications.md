@@ -12,6 +12,14 @@ If you need the PDF of any of the papers, please feel free to contact me.
 
 **Journal Articles**
 <ol>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li>Wu, J., Wang, Z., <b>Song, Y.</b> Zhou, X., & Cheng, L. (2025). A reinforcement learning-assisted search and rescue resource allocation decision-making approach for maritime emergencies. Computers & Industrial Engineering, 201, 110933.</li>
+<li>Jiang, X., Guo, Y., Zhang, Y., <b>Song, Y.</b> Pedrycz, W., & Xing, L. (2025). An evolutionary task scheduling algorithm using fuzzy fitness evaluation method for communication satellite network. Swarm and Evolutionary Computation, 92, 101830.</li>
+<li>Huang, W., Wang, H., Wu, J., Hou, H., Li, J., Li, Z., & <b>Song, Y</b>. (2025). A Reinforcement Learning-Enhanced Dung Beetle Optimization Approach for Agile Earth Observation Satellite Scheduling. IEEE Geoscience and Remote Sensing Letters.</li>
 <li>Ning, Y., Bai, Z., Wei, J., Suganthan, P. N., Xing, L., Wang, J., & <b>Song, Y*</b>. (2025). A meta-heuristic algorithm combined with deep reinforcement learning for multi-sensor positioning layout problem in complex environment. Expert Systems with Applications, 261, 125555.</li>
 <li>Yan, Z., Zhao, H., Liang, S., Li, L., & <b>Song, Y.</b> (2024). Inter-layer feedback mechanism with reinforcement learning boosts the evolution of cooperation in multilayer network. Chaos, Solitons & Fractals, 185, 115095.</li>
 <li>Wang, H., Huang, W., Magnússon, S., Lindgren, T., Wang, R., & <b>Song, Y.</b> (2024). A Strategy Fusion-Based Multi-Objective Optimization Approach for Agile Earth Observation Satellite Scheduling Problem. IEEE Transactions on Geoscience and Remote Sensing.</li>
