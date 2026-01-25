@@ -12,7 +12,7 @@ If you need the PDF of any of the papers, please feel free to contact me.
 
 **Journal Articles**
 <ol>
-<li>Ren, Y., Li, Q., Zhang, Y., Li, J. , Pedrycz, W., Suganthan, P. N., Mallipeddi, R., & <b>{Song, Y.*</b> (2026). An evolutionary algorithm with memory guidance for data transmission scheduling optimization in communication satellite network. IEEE Transactions on Systems, Man, and Cybernetics: Systems.</li>
+<li>Ren, Y., Li, Q., Zhang, Y., Li, J. , Pedrycz, W., Suganthan, P. N., Mallipeddi, R., & <b>Song, Y.*</b> (2026). An evolutionary algorithm with memory guidance for data transmission scheduling optimization in communication satellite network. IEEE Transactions on Systems, Man, and Cybernetics: Systems.</li>
 <li>Wang, H., Huang, W., Magnússon, S., Lindgren, T., Chen, C., Wu, J., & <b>Song, Y</b>. (2025). Crowding distance and IGD-driven grey wolf reinforcement learning approach for multi-objective agile earth observation satellite scheduling. International Journal of Digital Earth, 18(1), 2458024.</li>
 <li>Tian, M., Cui, M., Yu, S., Chen, Zhimin, & <b>Song, Y.</b>. (2025). SCDF-YOLOv11: Selection and compensation detailed feature integration network for UAV detection. Chinese Journal of Aeronautics, 103998.</li>
 <li>Jin, G., Li, X., Guan, S., <b>Song, Y.</b>, Hao, X., & Zhang, J. (2025). Exploring to predict the tipping points in traffic flow: A lightweight spatio-temporal information-enhanced neural point process approach. Physica A: Statistical Mechanics and its Applications, 131122.</li>
