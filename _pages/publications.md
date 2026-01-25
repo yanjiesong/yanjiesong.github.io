@@ -12,6 +12,7 @@ If you need the PDF of any of the papers, please feel free to contact me.
 
 **Journal Articles**
 <ol>
+<li>Xin, H., Bao, W., Yan, H., <b>Song, Y.</b>, Xing, L., Chen, H.  (2026). Multi-UAV Joint Scheduling for Multimodal Data Sensing and Offloading in Post-Disaster Scenarios. IEEE Transactions on Vehicular Technology. </li>
 <li>Ren, Y., Li, Q., Zhang, Y., Li, J. , Pedrycz, W., Suganthan, P. N., Mallipeddi, R., & <b>Song, Y.*</b> (2026). An evolutionary algorithm with memory guidance for data transmission scheduling optimization in communication satellite network. IEEE Transactions on Systems, Man, and Cybernetics: Systems.</li>
 <li>Wang, H., Huang, W., Magnússon, S., Lindgren, T., Chen, C., Wu, J., & <b>Song, Y</b>. (2025). Crowding distance and IGD-driven grey wolf reinforcement learning approach for multi-objective agile earth observation satellite scheduling. International Journal of Digital Earth, 18(1), 2458024.</li>
 <li>Tian, M., Cui, M., Yu, S., Chen, Zhimin, & <b>Song, Y.</b>. (2025). SCDF-YOLOv11: Selection and compensation detailed feature integration network for UAV detection. Chinese Journal of Aeronautics, 103998.</li>
