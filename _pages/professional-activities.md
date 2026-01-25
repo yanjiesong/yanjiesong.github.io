@@ -39,6 +39,10 @@ ul li { padding: 5px 0px; }
 <li> IEEE Transactions on Systems, Man and Cybernetics: Systems, IEEE</li>
 <li> IEEE Transactions on Intelligent Transportation Systems, IEEE</li>
 <li> IEEE Transactions on Computational Social Systems, IEEE</li>
+<li>IEEE Transactions on Industrial Informatics, IEEE</li>
+<li>IEEE Transactions on Automation Science and Engineering, IEEE</li>
+<li>IEEE Transactions on Mobile Computing, IEEE</li>
+<li>IEEE Transactions on Aerospace and Electronic Systems, IEEE</li>
 <li> IEEE Robotics and Automation Letters, IEEE</li>
 <li> IEEE Consumer Electronics Magazine, IEEE</li>
 <li>	Swarm and Evolutionary Computation, Elsevier </li>
@@ -58,7 +62,7 @@ ul li { padding: 5px 0px; }
 <li> 	Neural Computing and Applications, Springer</li>
 <li> 	Journal of King Saud University-Computer & Information Sciences, Elsevier</li>
 <li> 	Advances in Space Research, Elsevier</li>
-<li> 	Applied Optics, OPTICA</li>
+<li> 	Applied Optics, Optica</li>
 <li> 	Sustainable Computing: Informatics and Systems, Elsevier</li>
 <li> 	Concurrency and Computation Practice and Experience, Wiley</li>
 <li> 	Computer Modeling in Engineering and Sciences, Tech Science</li>
@@ -70,13 +74,10 @@ ul li { padding: 5px 0px; }
 <li> International Journal of Management Science and Engineering Management, Taylor & Francis</li>
 <li> Production & Manufacturing Research, Taylor & Francis</li>
 <li> Applied Computational Intelligence and Soft Computing, Hindawi</li>
-<li> PeerJ Computer Science, PeerJ</li>
 <li> Journal of Cloud Computing, Springer</li>
-<li> Frontiers in Space Technologies, Frontiers </li>
 <li> The Innovation, Cell </li>
 <li> International Journal on Interactive Design and Manufacturing, Springer </li>
 <li> Production & Manufacturing Research, Taylor & Francis </li>
-<li> Scientific Programming, Hindawi</li>
 <li>SoftwareX, Elsevier</li>
 <li>Applied Computing and Informatics, Emerald Publishing</li>
 <li> Franklin Open, Elsevier</li>
