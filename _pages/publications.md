@@ -12,6 +12,23 @@ If you need the PDF of any of the papers, please feel free to contact me.
 
 **Journal Articles**
 <ol>
+<li>Ren, Y., Shi, F., Jin, G., & <b>Song, Y.</b> (2026). A timeliness-aware evolutionary algorithm for satellite-ground networking with feeding mode. Applied Soft Computing, 116849. DOI: 10.1016/j.asoc.2026.116849.</li>
+<li>Wang, H., Li, J., Li, L., Ou, J., Yang, W., & <b>Song, Y.</b> (2026). A Heterogeneous Bipartite Graph Neural Network for Bidirectional Recommendation in Online Recruitment. CAAI Transactions on Intelligence Technology. DOI: 10.1049/cit2.70195.</li>
+<li>Hu, Y., Yang, X., Ou, J., Jiang, S., Zheng, J., Zou, J., <b>Song, Y.</b>, Pedrycz, W., & Yang, S. (2026). Dynamic Multi-Objective Optimisation of Environmental Change Degree and Similarity Based on Nonparametric Tests. CAAI Transactions on Intelligence Technology. DOI: 10.1049/cit2.70191.</li>
+<li>Sun, B., Peng, P., Tan, G., <b>Song, Y.</b>, Tian, Y., & Pedrycz, W. (2026). TransACO: Transformer-Guided Ant Colony Algorithm for Combinatorial Optimization. IEEE Transactions on Emerging Topics in Computational Intelligence, 10(4), 3288–3301. DOI: 10.1109/TETCI.2026.3683773.</li>
+<li><b>Song, Y.</b>, Wu, J., Wang, H., Wang, J., Zhang, Y., Jiang, X., Xing, L., & Hu, Q. (2026). Integrated scheduling of satellite observation and data transmission via two-stage interactive scheduling algorithm assisted by large language model. Aerospace Science and Technology, 180, 114061. DOI: 10.1016/j.ast.2026.114061.</li>
+<li>Wang, H., Wu, J., Liu, Y., Zhou, Y., Zhang, J., Li, H., <b>Song, Y.</b>, & Li, L. (2026). Implicit Q-learning-bootstrapped ant colony optimization for maritime moving-target observation scheduling with agile satellites. Aerospace Science and Technology, 180, 113899. DOI: 10.1016/j.ast.2026.113899.</li>
+<li>Zhong, B., Niu, S., Wang, L., Wang, H., Chen, W., <b>Song, Y.</b>, & Wang, H. (2026). Unmanned Underwater Vehicle Path Following Based on Improved Soft ActorCritic with Action Smoothing. Journal of Marine Science and Engineering, 14(19), 1822. DOI: 10.3390/jmse14191822.</li>
+<li>Dai, Y., Chen, Z., Dou, Y., Pedrycz, W., <b>Song, Y.</b>, & Jiang, J. (2026). Agile Project Portfolio Realignment: A PbRL-EMOA Framework for Shifting Strategic Priority. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 56(10), 5993–6006. DOI: 10.1109/TSMC.2026.3705431.</li>
+<li>Huang, J., Yao, F., Zhan, H., Zhang, Z., Chen, C., Xing, L., & <b>Song, Y.</b> (2026). Large-scale multi-objective human resource scheduling for organizational agility: An improved co-evolutionary NSGA-II algorithm. Expert Systems with Applications, 331, 133270. DOI: 10.1016/j.eswa.2026.133270.</li>
+<li>Chen, C., Huang, W., <b>Song, Y.</b>, Wu, J., Cao, Y., & Wang, H. (2026). Finite-interval robust six-sample coning compensation for spaceborne strapdown inertial attitude updating. Advances in Space Research, 78(8), 8403–8422. DOI: 10.1016/j.asr.2026.08.024.</li>
+<li><b>Song, Y.</b>, Guo, Y., Xing, L., Wu, J., Wang, J., Huai, S., & Pedrycz, W. (2026). A reinforcement learning-based cooperative distributed evolutionary algorithm for the electromagnetic detection satellite scheduling. Advances in Space Research, 78(4). DOI: 10.1016/j.asr.2026.06.023.</li>
+<li>Xin, H., Bao, W., Yan, H., Wang, J., Li, X., <b>Song, Y.</b>, & Xing, L. (2026). Recoverability-Aware Fault-Tolerant Scheduling of UAVs for IoT Data Collection in Disaster Scenarios. Drones, 10(8), 570. DOI: 10.3390/drones10080570.</li>
+<li>Wu, J., Wang, Z., Cheng, L., & <b>Song, Y.</b> (2026). Dual-Population Cooperative Algorithm Integrating an LLM and an Evolutionary Algorithm for AUV Path Planning in 3-D Marine Environments. IEEE Internet of Things Journal, 13(14), 31017–31034. DOI: 10.1109/JIOT.2026.3686625.</li>
+<li>Jiang, X., Li, J., Mallipeddi, R., Jin, G., Wu, J., Xing, L., & <b>Song, Y.</b> (2026). Integrating adaptive divide-and-conquer and large language model for scheduling large-scale tasks in electromagnetic satellite systems. Expert Systems with Applications, 318, 131978. DOI: 10.1016/j.eswa.2026.131978.</li>
+<li>Chen, C., Huang, W., Li, Z., Cao, Y., <b>Song, Y.</b>, & Wang, H. (2026). Finite-Interval Robust Coefficient Design for Six-Sample Sculling Compensation in UAV Strapdown INS Velocity Updating. Actuators, 15(7), 360. DOI: 10.3390/act15070360.</li>
+<li>Jin, G., Ni, X., <b>Song, Y.</b>, Wei, K., Zhao, J., Jia, L., & Pedrycz, W. (2026). Physics-Informed Neural Network With Adaptive Clustering Learning Mechanism for Information Popularity Prediction. IEEE Transactions on Computational Social Systems, 13(4), 5077–5089. DOI: 10.1109/TCSS.2026.3676505.</li>
+<li>Liu, R., Hu, W., Pedrycz, W., <b>Song, Y.</b>, Xing, L., & Yu, Y. (2026). A reinforcement learning-based artificial bee colony algorithm for resolving the UAV logistics path planning problem in a 3D space. Swarm and Evolutionary Computation, 102, 102328. DOI: 10.1016/j.swevo.2026.102328.</li>
 <li>Chen, J., Chen, Y., Pham, D. T., <b>Song, Y.</b>, Wu, J., Xing, L., & Chen, Y. (2026). A Large Language Model-Based Multi-Agent Framework to Autonomously Design Algorithms for Earth Observation Satellite Scheduling Problem. Engineering, 2026-08.</li>
 <li>Wang, F., Chen, J., Du, Y., <b>Song, Y.</b>, Chen, Y., Mallipeddi, R., & Pedrycz, W. (2026). LLM-assisted adaptive large neighborhood search for agile earth observation satellite scheduling. Frontiers of Engineering Management. DOI: 10.1007/s42524-026-5124-4.</li>
 <li>Zhu, J., Hu, Q., Wu, J., Du, Y., Liu, X., <b>Song, Y.</b>, Pedrycz, W., & Xing, L. (2026). A DQN-Guided Genetic Algorithm With Local Intensification for Agile Earth Observation Satellite Scheduling. IEEE Transactions on Aerospace and Electronic Systems, 62, 8917–8933. DOI: 10.1109/TAES.2026.3680859.</li>
@@ -20,7 +37,6 @@ If you need the PDF of any of the papers, please feel free to contact me.
 <li>Wang, H., Huang, W., Magnússon, S., Lindgren, T., Chen, C., Wu, J., & <b>Song, Y</b>. (2025). Crowding distance and IGD-driven grey wolf reinforcement learning approach for multi-objective agile earth observation satellite scheduling. International Journal of Digital Earth, 18(1), 2458024.</li>
 <li>Tian, M., Cui, M., Yu, S., Chen, Zhimin, & <b>Song, Y.</b>. (2025). SCDF-YOLOv11: Selection and compensation detailed feature integration network for UAV detection. Chinese Journal of Aeronautics, 103998.</li>
 <li>Jin, G., Li, X., Guan, S., <b>Song, Y.</b>, Hao, X., & Zhang, J. (2025). Exploring to predict the tipping points in traffic flow: A lightweight spatio-temporal information-enhanced neural point process approach. Physica A: Statistical Mechanics and its Applications, 131122.</li>
-<li>Chen, J., Chen, Y., Pham, D. T., <b>Song, Y.</b>, Wu, J., Xing, L., & Chen, Y. (2025). A Large Language Model-based Multi-Agent Framework to Autonomously Design Algorithms for Earth Observation Satellite Scheduling Problem. Engineering.</li>
 <li>Hu, Y., Xia, J., Ou, J., <b>Song, Y.</b>, Li, J., Zheng, J., ... & Zhang, Y. (2025). A multi-population co-evolutionary algorithm based on dual-space division for dynamic multi-objective optimization problems. Information Sciences, 122712.</li>
 <li>Lu, W., Liu, B., Mu, Z., Wu, S., <b>Song, Y.</b>, & Razoumny, V. Y. (2025). Multi-Satellite Scheduling for Stereo Tracking of Moving Targets via Parallel Island Differential Evolutionary Algorithm. IEEE Transactions on Aerospace and Electronic Systems.</li>
 <li>Haoyang, C., <b>Yanjie, S.</b>, Lang, X., & Ran, Y. (2025). Identifying ship deficiency patterns in port state control: an association rule mining-based analysis framework. Maritime Policy & Management, 1-26.</li>
@@ -79,6 +95,11 @@ If you need the PDF of any of the papers, please feel free to contact me.
 </ol>
 
 
+**Books**
+<ol>
+<li><b>Song, Y.</b>, Zhang, Y., Du, Y., Pedrycz, W., & Xing, L. (2026). Collaborative Scheduling for Electromagnetic Detection Satellites: Model and Reinforcement Learning-Based Evolutionary Algorithms (1st ed.). Elsevier. ISBN: 978-0-443-45103-4. <a href="https://shop.elsevier.com/books/collaborative-scheduling-for-electromagnetic-detection-satellites/song/978-0-443-45103-4"> [Publisher]</a></li>
+</ol>
+
 **Book Chapters**
 <ol>
 <li>Bees Algorithm with Adaptive Operator Selection Mechanism for Generalised Multi-dimensional Multi-choice Knapsack Problem (Forthcoming)</li>
@@ -118,10 +139,11 @@ If you need the PDF of any of the papers, please feel free to contact me.
 
 **Working Papers**
 <ol>
+<li>Cheng, Y., Jia, Y., <b>Song, Y.</b>, Liu, X., Xing, L., & Yao, F. (2026). CIPHEUR: LLM-Guided Structural Search Control for Conflict-Graph Optimization. arXiv preprint, arXiv:2610.16158. <a href="https://arxiv.org/abs/2610.16158"> [arXiv]</a></li>
+<li>Wang, H., Wu, J., Li, H., <b>Song, Y.</b>, Pedrycz, W., & Li, L. (2026). Reinforcement Learning-Guided Evolutionary Policy Optimization for Preference-Adjustable Heterogeneous Agile Earth Observation Satellite Scheduling. arXiv preprint, arXiv:2608.24470. <a href="https://arxiv.org/abs/2608.24470"> [arXiv]</a></li>
+<li>Yin, Q., Li, J., Cheng, J., Luo, Q., Riccardi, A., Chatterjee, A., Vazquez, R., Novara, C., Mavrovouniotis, M., Suganthan, P. N., Bai, S., Hu, X., Xing, L., Xu, M., Li, S., Zheng, Z., Shen, X., Chen, X., Gu, Y., <b>Song, Y.</b>, Pedrycz, W., Kramer, E. L., Seman, L. O., Shoko, C., Wu, G., & Wang, X. (2026). EOS-Bench: A Comprehensive Benchmark for Earth Observation Satellite Scheduling. arXiv preprint, arXiv:2604.25782. <a href="https://arxiv.org/abs/2604.25782"> [arXiv]</a></li>
 <li>A Reinforcement learning-based two-layer Adaptive Optimization Method for User-side Energy Storage Scheduling Problem </li>
 <li>Multi-Objective Flexible Job Shop Scheduling via Preference-Conditioned Graph Reinforcement Learning </li>
 <li>Identifying and prioritizing key factors for smart aviation development using the fuzzy best-worst method: A case from China </li>
 <li>Container Shipping Contract Design under Financial Constraints and Default Risks </li>
-<li>A Reinforcement Learning-assisted Genetic Programming Algorithm for Team Formation Problem Considering Person-Job Matching <a href="https://github.com/yanjiesong/yanjiesong.github.io/blob/master/files/A%20Reinforcement%20Learning-assisted%20Genetic%20Programming%20Algorithm%20for%20Team%20Formation%20Problem%20Considering%20Person-Job%20Matching.pdf"> [pdf]</a></li>
 </ol>
-
