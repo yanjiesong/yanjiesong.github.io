@@ -118,7 +118,6 @@ If you need the PDF of any of the papers, please feel free to contact me.
 
 **Working Papers**
 <ol>
-<li><b>Song, Y.</b>, Pedrycz, W., Suganthan, P. N., Wang, X., et al. (2026). EOS-Bench: A Comprehensive Benchmark for Earth Observation Satellite Scheduling. arXiv:2604.25782. DOI: 10.48550/arXiv.2604.25782.</li>
 <li>A Reinforcement learning-based two-layer Adaptive Optimization Method for User-side Energy Storage Scheduling Problem </li>
 <li>Multi-Objective Flexible Job Shop Scheduling via Preference-Conditioned Graph Reinforcement Learning </li>
 <li>Identifying and prioritizing key factors for smart aviation development using the fuzzy best-worst method: A case from China </li>
