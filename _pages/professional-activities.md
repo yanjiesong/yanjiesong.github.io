@@ -96,5 +96,6 @@ ul li { padding: 5px 0px; }
 **Professional Membership**
 <ol>
 <li> IEEE Student Member, 2017 – 2023 </li>
-<li> IEEE Member, 2024 – Now </li>
+<li> IEEE Member, 2024 – 2025 </li>
+<li> IEEE Senior Member, 2026 – Now </li>
 </ol>
